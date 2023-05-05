@@ -1,1 +1,0 @@
-const o=""+new URL("audio_playing-a575ef32.svg",import.meta.url).href,e=""+new URL("voice_icon1-c5aafa18.svg",import.meta.url).href,c=""+new URL("voice_icon2-5800df57.svg",import.meta.url).href,i=""+new URL("voice_icon3-cf8025e7.svg",import.meta.url).href,n=""+new URL("voice_icon4-99f88e21.svg",import.meta.url).href;export{o as A,e as V,c as a,i as b,n as c};

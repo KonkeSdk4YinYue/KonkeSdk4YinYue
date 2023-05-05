@@ -1,1 +1,0 @@
-import{_,o as e,c as t}from"./_plugin-vue_export-helper-ae94e834.js";const o=""+new URL("gradient_top-e93020c2.svg",import.meta.url).href;const n={},c={class:"gradient-top",src:o,alt:""};function s(r,a){return e(),t("img",c)}const d=_(n,[["render",s],["__scopeId","data-v-4fb71d38"]]);export{d as _};

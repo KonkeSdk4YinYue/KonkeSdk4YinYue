@@ -1,1 +1,0 @@
-import{_ as t,o as s,c as n,l as o}from"./_plugin-vue_export-helper-ae94e834.js";const _={computed:{style(){return{height:window!=null&&window.__safeAreaInsets?`${__safeAreaInsets==null?void 0:__safeAreaInsets.top}px`:"0px"}}}};function r(a,c,p,l,i,e){return s(),n("div",{style:o(e.style)},null,4)}const f=t(_,[["render",r]]);export{f as _};
