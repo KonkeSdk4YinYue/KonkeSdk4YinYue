@@ -16,8 +16,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "KonkeSdk4YinYue",
-        "printedName": "KonkeSdk4YinYue",
+        "name": "KonkeSdk4YinYueRunner",
+        "printedName": "KonkeSdk4YinYueRunner",
         "children": [
           {
             "kind": "Function",
@@ -31,8 +31,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15KonkeSdk4YinYueAAO7prepareyyFZ",
-            "mangledName": "$s15KonkeSdk4YinYueAAO7prepareyyFZ",
+            "usr": "s:15KonkeSdk4YinYue0abcD6RunnerO7prepareyyFZ",
+            "mangledName": "$s15KonkeSdk4YinYue0abcD6RunnerO7prepareyyFZ",
             "moduleName": "KonkeSdk4YinYue",
             "static": true,
             "declAttributes": [
@@ -58,8 +58,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15KonkeSdk4YinYueAAO11openSdkHome2byySo16UIViewControllerC_tFZ",
-            "mangledName": "$s15KonkeSdk4YinYueAAO11openSdkHome2byySo16UIViewControllerC_tFZ",
+            "usr": "s:15KonkeSdk4YinYue0abcD6RunnerO11openSdkHome2byySo16UIViewControllerC_tFZ",
+            "mangledName": "$s15KonkeSdk4YinYue0abcD6RunnerO11openSdkHome2byySo16UIViewControllerC_tFZ",
             "moduleName": "KonkeSdk4YinYue",
             "static": true,
             "declAttributes": [
@@ -69,8 +69,8 @@
           }
         ],
         "declKind": "Enum",
-        "usr": "s:15KonkeSdk4YinYueAAO",
-        "mangledName": "$s15KonkeSdk4YinYueAAO",
+        "usr": "s:15KonkeSdk4YinYue0abcD6RunnerO",
+        "mangledName": "$s15KonkeSdk4YinYue0abcD6RunnerO",
         "moduleName": "KonkeSdk4YinYue",
         "declAttributes": [
           "AccessControl"
@@ -3813,28 +3813,28 @@
     {
       "filePath": "\/Users\/waynewu\/Codes\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYue.swift",
       "kind": "StringLiteral",
-      "offset": 209,
+      "offset": 215,
       "length": 6,
       "value": "\"dist\""
     },
     {
       "filePath": "\/Users\/waynewu\/Codes\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYue.swift",
       "kind": "StringLiteral",
-      "offset": 465,
+      "offset": 471,
       "length": 6,
       "value": "\"home\""
     },
     {
       "filePath": "\/Users\/waynewu\/Codes\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYue.swift",
       "kind": "BooleanLiteral",
-      "offset": 585,
+      "offset": 591,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/waynewu\/Codes\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYue.swift",
       "kind": "BooleanLiteral",
-      "offset": 731,
+      "offset": 737,
       "length": 4,
       "value": "true"
     },

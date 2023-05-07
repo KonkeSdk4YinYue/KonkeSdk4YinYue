@@ -11,7 +11,7 @@ import UIKit
 import WebKit
 import _Concurrency
 import _StringProcessing
-public enum KonkeSdk4YinYue {
+public enum KonkeSdk4YinYueRunner {
   public static func prepare()
   public static func openSdkHome(by viewController: UIKit.UIViewController)
 }
