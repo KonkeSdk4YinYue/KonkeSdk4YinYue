@@ -96,6 +96,10 @@
 		<data>
 		NbGo/zy7hOLOHhyG1DRM+sO7ka4=
 		</data>
+		<key>dist/assets/dev-ac-520fae0e.js</key>
+		<data>
+		eU0satasB8yqQSfGI0n2QNfCHQE=
+		</data>
 		<key>dist/assets/dev-cur-1672430c.js</key>
 		<data>
 		4jKh589pLhdB5lBkRO1IFEBSKk0=
@@ -143,6 +147,30 @@
 		<key>dist/assets/home_manage-881fbf95.svg</key>
 		<data>
 		SIhhjXN11bOznaD0g5U0TKQglmc=
+		</data>
+		<key>dist/assets/ic_ac_mode_disable-feb35298.svg</key>
+		<data>
+		VKmK4FwwuJEiRDx38tu3FCIE7Js=
+		</data>
+		<key>dist/assets/ic_ac_mode_off-a4edfac8.svg</key>
+		<data>
+		ypgy+/3CnRNBKEM6B3GqC3r0CqQ=
+		</data>
+		<key>dist/assets/ic_ac_mode_on-4096e8c2.svg</key>
+		<data>
+		ynwoZliJA5BnfptVHiqgD6npuEM=
+		</data>
+		<key>dist/assets/ic_ac_speed_disable-c31841ae.svg</key>
+		<data>
+		ydesZZDAQAsY2i+CDBwuhp17pYo=
+		</data>
+		<key>dist/assets/ic_ac_speed_off-2064714d.svg</key>
+		<data>
+		t7TBeEl+bNB3S4D5YXgalUxvIxY=
+		</data>
+		<key>dist/assets/ic_ac_speed_on-6cc58066.svg</key>
+		<data>
+		J62kgzdlV+P2sefmifmoVyXIIJk=
 		</data>
 		<key>dist/assets/ic_add_room-3e0346c7.svg</key>
 		<data>
@@ -288,6 +316,22 @@
 		<data>
 		lL5j7gVkTR0zBaFJyIqOYmUU+Kk=
 		</data>
+		<key>dist/assets/ic_switch_off-70f57888.svg</key>
+		<data>
+		Db3deEjgBX/NJg9hrKpAqOTz6go=
+		</data>
+		<key>dist/assets/ic_switch_on-671eef66.svg</key>
+		<data>
+		68XoURwdOlhWvDpqCIBgPPDX8qs=
+		</data>
+		<key>dist/assets/ic_temp_add-4613376f.svg</key>
+		<data>
+		jHp5BljJVEgygmIM1fVDUrTEOwI=
+		</data>
+		<key>dist/assets/ic_temp_sub-9d238f7a.svg</key>
+		<data>
+		MAJLZ2KK4mx+QLMxMobLBRZ7yd8=
+		</data>
 		<key>dist/assets/index-03f6bb18.js</key>
 		<data>
 		CAxA44TObD2p3+wPlqGw4fbpdI8=
@@ -379,6 +423,10 @@
 		<key>dist/assets/index-621eb034.css</key>
 		<data>
 		DgTM2271oV8d/hhw8ptw9YHSBt4=
+		</data>
+		<key>dist/assets/index-729d03ce.css</key>
+		<data>
+		/ORpyGuIS9nwuoDXjRUsnCdyrZs=
 		</data>
 		<key>dist/assets/index-73740549.css</key>
 		<data>
@@ -635,6 +683,10 @@
 		<key>dist/assets/user-profile-9d1c396b.js</key>
 		<data>
 		6zAFdIs4A94n0Nu0ZJTSERHK6KQ=
+		</data>
+		<key>dist/dev-ac/index.html</key>
+		<data>
+		SpEEkclCkKyThbLkU5LoFVdxx14=
 		</data>
 		<key>dist/dev-cur/index.html</key>
 		<data>
@@ -901,6 +953,13 @@
 			4CI7C+iUUQ/Mk5T+12HX+Zuq+7IZZEum3+iASB4r5XU=
 			</data>
 		</dict>
+		<key>dist/assets/dev-ac-520fae0e.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dfZDRyrr00qGPFrdFy2pkJSlxvQ/TF+4k9ZWwrEyVuw=
+			</data>
+		</dict>
 		<key>dist/assets/dev-cur-1672430c.js</key>
 		<dict>
 			<key>hash2</key>
@@ -983,6 +1042,48 @@
 			<key>hash2</key>
 			<data>
 			iB+/lZg4bsqaJAuKtLf6e77H7Yp+Mn6faDuTg50b218=
+			</data>
+		</dict>
+		<key>dist/assets/ic_ac_mode_disable-feb35298.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/rNSmKU4xNttGU5PEsrALZB4wQoXXg8DLdtOHG9Ju0s=
+			</data>
+		</dict>
+		<key>dist/assets/ic_ac_mode_off-a4edfac8.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pO36yMJgJrjxZDpV2wGrQ5SvShuj8jjY51I/OclKdRQ=
+			</data>
+		</dict>
+		<key>dist/assets/ic_ac_mode_on-4096e8c2.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QJbowmtO6b8Wuamrmj6WOVgZy7PgXdfgEBo2dZuMnRQ=
+			</data>
+		</dict>
+		<key>dist/assets/ic_ac_speed_disable-c31841ae.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wxhBrtUjGzwGXQv2OnoT6tmfTObYm+2JE/Tz3k0ZRKY=
+			</data>
+		</dict>
+		<key>dist/assets/ic_ac_speed_off-2064714d.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IGRxTa355eQ90/DFS592k7kkEO8hlYGGlBlldBOODZI=
+			</data>
+		</dict>
+		<key>dist/assets/ic_ac_speed_on-6cc58066.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bMWAZsyu2vFuNrlUkqsg3Bt/2mWl+7PHlP+GXVuaAyM=
 			</data>
 		</dict>
 		<key>dist/assets/ic_add_room-3e0346c7.svg</key>
@@ -1237,6 +1338,34 @@
 			aifd7i/t47YaGtsIfmqfKen8J/7NkWnXtqaZhlKwB7U=
 			</data>
 		</dict>
+		<key>dist/assets/ic_switch_off-70f57888.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cPV4iGEtBuJ2HxFs+NkiMtFeb9ENrYDBf1sEuA69JxU=
+			</data>
+		</dict>
+		<key>dist/assets/ic_switch_on-671eef66.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Zx7vZoP0XqR80bjTZepSR0mngxTPefJ0SApu8bpIBrY=
+			</data>
+		</dict>
+		<key>dist/assets/ic_temp_add-4613376f.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RhM3bywzwQte50CapwqxNwyU6sWYTtlblmDgep4XJNs=
+			</data>
+		</dict>
+		<key>dist/assets/ic_temp_sub-9d238f7a.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nSOPeh9nlqUa8o+hSWhpswYSUUoI+Hgq7JgVJEZU1FI=
+			</data>
+		</dict>
 		<key>dist/assets/index-03f6bb18.js</key>
 		<dict>
 			<key>hash2</key>
@@ -1396,6 +1525,13 @@
 			<key>hash2</key>
 			<data>
 			Yh6wNN5u6lm5s6RdacA86kPWK7Hzdvn7Gzo3v9ubRlo=
+			</data>
+		</dict>
+		<key>dist/assets/index-729d03ce.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cp0DztVJYIwNOP9FzfC5R7KsRmmZHvKnI+ZExt4umwU=
 			</data>
 		</dict>
 		<key>dist/assets/index-73740549.css</key>
@@ -1844,6 +1980,13 @@
 			<key>hash2</key>
 			<data>
 			m4lcxwkjhStXLYZkXudASIvtnS83JeJbwLokA3AEMi0=
+			</data>
+		</dict>
+		<key>dist/dev-ac/index.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ofs7BTwwN2D0aiRsJxMjvnSOeNrYXjHAb3ztxG1bBUQ=
 			</data>
 		</dict>
 		<key>dist/dev-cur/index.html</key>
