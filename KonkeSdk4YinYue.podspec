@@ -9,4 +9,5 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/KonkeSdk4YinYue/KonkeSdk4YinYue.git', :ref => 'main' }
   s.ios.deployment_target = '10.0'
   s.vendored_frameworks = 'KonkeSdk4YinYue.xcframework'
+  s.dependency 'Starscream', '~> 4.0.0'
 end
