@@ -1,75 +1,70 @@
+const u = navigator.userAgent;
+window.__is_android = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1;
+window.__is_ios = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/);
+
+if (window.__is_android) window.__os = 'ANDROID';
+else if (window.__is_ios) window.__os = 'IOS';
+else window.__os = 'OTHER';
+
+if (window.webkit?.messageHandlers?.jsb) {
+  window.__has_jsb = true;
+} else if (window.Android?.action) {
+  window.__has_jsb = true;
+} else {
+  window.__has_jsb = false;
+}
+console.log(window.__has_jsb, '__has_jsb');
+
 class jsb {
   invokeId = 0;
   callbackMap = {};
-  constructor() {}
 
-  invoke({ scope, method, params, callback }) {
-    console.log("JSB.invoke", scope, method, params);
+  constructor() {
+  }
+
+  invoke({scope, method, params, callback}) {
+    console.log('JSB.invoke', scope, method, params);
     this.invokeId++;
     if (callback) {
       this.callbackMap[this.invokeId.toString()] = callback;
     }
-   let u = navigator.userAgent;
-   let isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1; //判断是否是 android终端
-    console.log('是否是Android：' + isAndroid); //true,false
-      if (!isAndroid){
-        window.webkit.messageHandlers.jsb.postMessage(
-          JSON.stringify({
-            scope: scope,
-            method: method,
-            params: params,
-            invokeId: this.invokeId,
-          })
-          );
-      }else {
-
-      var msg = JSON.stringify({
-                          scope: scope,
-                          method: method,
-                          params: params,
-                          invokeId: this.invokeId,
-                        });
-        console.log("msg",msg);
-        window.Android.action(msg);
-      }
+    const msg = JSON.stringify({
+      scope: scope,
+      method: method,
+      params: params,
+      invokeId: this.invokeId,
+    });
+    console.log('msg', msg);
+    if (window.__is_ios) {
+      window.webkit?.messageHandlers.jsb.postMessage(msg);
+    } else if (window.__is_android) {
+      window.Android?.action(msg);
+    } else {
+      console.log('other platform');
+    }
   }
 
   onResponse(responseBody, invokeId) {
-    console.log("JSB.onResponse", responseBody, invokeId);
+    console.log('JSB.onResponse', responseBody, invokeId);
     const callback = this.callbackMap[invokeId.toString()];
     if (callback) {
-      callback(responseBody);
-        console.log("JSB.onResponse", responseBody);
+      if (window.__is_android) {
+        callback(JSON.parse(responseBody))
+      } else {
+        callback(responseBody);
+      }
       delete this.callbackMap[invokeId.toString()];
     }
   }
 
   // helper methods
 
-  http({ path, method, query, body }) {
-    return new Promise((resolve, reject) => {
-      this.invoke({
-        scope: "http",
-        method,
-        params: { path, query, body },
-        callback: ({ responseBody, success }) => {
-            console.log("responseBody ", responseBody, "success", success);
-          if (success !== true) {
-            reject(responseBody);
-          } else {
-            resolve(responseBody);
-          }
-        },
-      });
-    });
-  }
-
   getPageParams() {
     return new Promise((resolve, reject) => {
       this.invoke({
-        scope: "currentPage",
-        method: "getPageParams",
-        callback: ({ responseBody, success }) => {
+        scope: 'currentPage',
+        method: 'getPageParams',
+        callback: ({responseBody, success}) => {
           if (success !== true) {
             reject(responseBody);
           } else {
@@ -83,9 +78,9 @@ class jsb {
   pickImage() {
     return new Promise((resolve, reject) => {
       this.invoke({
-        scope: "currentPage",
-        method: "pickImage",
-        callback: ({ responseBody, success }) => {
+        scope: 'currentPage',
+        method: 'pickImage',
+        callback: ({responseBody, success}) => {
           if (success !== true) {
             reject(responseBody);
           } else {
@@ -96,12 +91,18 @@ class jsb {
     });
   }
 
-  getToken() {
+  async getToken() {
+    if (!window.__has_jsb) {
+      const userInfo = await this.getLoginUserInfo();
+      const token = userInfo?.["userToken"]?.["accessToken"]
+      return { token } // 兼容下面的
+    }
     return new Promise((resolve, reject) => {
       this.invoke({
-        scope: "http",
-        method: "getToken",
-        callback: ({ responseBody, success }) => {
+        scope: 'app',
+        method: 'getToken',
+        callback: ({responseBody, success}) => {
+          console.log("responseBody", responseBody);
           if (success !== true) {
             reject(responseBody);
           } else {
@@ -112,12 +113,40 @@ class jsb {
     });
   }
 
-  getLoginUserInfo() {
+  async getLoginUserInfo() {
+    if (!window.__has_jsb) {
+      const json = localStorage.getItem('loginUserInfo');
+      if (!json)  return null;
+      return JSON.parse(json);
+    }
     return new Promise((resolve, reject) => {
       this.invoke({
-        scope: "http",
-        method: "getLoginUserInfo",
-        callback: ({ responseBody, success }) => {
+        scope: 'app',
+        method: 'getLoginUserInfo',
+        callback: ({responseBody, success}) => {
+          if (success !== true) {
+            reject(responseBody);
+          } else {
+            resolve(responseBody);
+          }
+        },
+      });
+    });
+  }
+
+  async setLoginUserInfo(userinfo) {
+    if (!window.__has_jsb) {
+      console.log('setLoginUserInfo', userinfo);
+      localStorage.setItem('loginUserInfo', JSON.stringify(userinfo));
+      localStorage.setItem('token', userinfo?.["userToken"]?.["accessToken"])
+      return;
+    }
+    return new Promise((resolve, reject) => {
+      this.invoke({
+        scope: 'app',
+        method: 'setLoginUserInfo',
+        params: userinfo,
+        callback: ({responseBody, success}) => {
           if (success !== true) {
             reject(responseBody);
           } else {
@@ -131,9 +160,9 @@ class jsb {
   getAppVersion() {
     return new Promise((resolve, reject) => {
       this.invoke({
-        scope: "app",
-        method: "getAppVersion",
-        callback: ({ responseBody, success }) => {
+        scope: 'app',
+        method: 'getAppVersion',
+        callback: ({responseBody, success}) => {
           if (success !== true) {
             reject(responseBody);
           } else {
@@ -145,12 +174,17 @@ class jsb {
   }
 
   getUserDefaults(key) {
+    if (!window.__has_jsb) {
+      const str = localStorage.getItem(key);
+      if (!str) return Promise.resolve(null);
+      return Promise.resolve(JSON.parse(str)?.["value"]);
+    }
     return new Promise((resolve, reject) => {
       this.invoke({
-        scope: "app",
-        method: "getUserDefaults",
-        params: { key },
-        callback: ({ responseBody, success }) => {
+        scope: 'app',
+        method: 'getUserDefaults',
+        params: {key},
+        callback: ({responseBody, success}) => {
           if (success !== true) {
             reject(responseBody);
           } else {
@@ -161,13 +195,36 @@ class jsb {
     });
   }
 
-  setUserDefaults({ key, value }) {
+  setUserDefaults({key, value}) {
+    if (!window.__has_jsb) {
+      localStorage.setItem(key, JSON.stringify({value}));
+      return Promise.resolve();
+    }
     return new Promise((resolve, reject) => {
       this.invoke({
-        scope: "app",
-        method: "setUserDefaults",
-        params: { key, value },
-        callback: ({ responseBody, success }) => {
+        scope: 'app',
+        method: 'setUserDefaults',
+        params: {key, value},
+        callback: ({responseBody, success}) => {
+          if (success !== true) {
+            reject(responseBody);
+          } else {
+            resolve(responseBody);
+          }
+        },
+      });
+    });
+  }
+
+  requestPermiss(params) {
+    console.log(params)
+    return new Promise((resolve, reject) => {
+      this.invoke({
+        scope: 'app',
+        method: 'permiss',
+        params: params,
+        callback: ({responseBody, success}) => {
+          console.log('requestPermiss, responseBody ', responseBody, 'success', success)
           if (success !== true) {
             reject(responseBody);
           } else {
@@ -179,11 +236,27 @@ class jsb {
   }
 
   push(params) {
-    this.invoke({ scope: "window", method: "push", params });
+    if (window.__has_jsb) {
+      this.invoke({scope: 'window', method: 'push', params});
+    } else {
+      window.location = params.route;
+    }
+  }
+
+  replace(params) {
+    if (window.__has_jsb) {
+      this.invoke({scope: 'window', method: 'replace', params});
+    } else {
+      window.location = params.route;
+    }
   }
 
   pop() {
-    this.invoke({ scope: "window", method: "pop" });
+    if (window.__has_jsb) {
+      this.invoke({scope: 'window', method: 'pop'});
+    } else {
+      window.history.back();
+    }
   }
 
   /**
@@ -193,21 +266,30 @@ class jsb {
    * @param { fromPage } fromPage 来源页面
    * @param { toPage } toPage 目标页面
    */
-  forwardEvent({ eventName, eventData, fromPage, toPage }) {
+  forwardEvent({eventName, eventData, fromPage, toPage}) {
     this.invoke({
-      scope: "event_handler",
-      method: "forwardEvent",
-      params: { eventName, eventData, fromPage, toPage },
+      scope: 'event_handler',
+      method: 'forwardEvent',
+      params: {eventName, eventData, fromPage, toPage},
     });
   }
 }
 
 class EventBus {
   events = {};
-  constructor() {}
+
+  constructor() {
+  }
 
   emit(eventName, data) {
-    console.log("EventBus.emit", eventName, data);
+    console.log('EventBus.emit', eventName, data);
+    if (window.__is_android && data != null && data != '') {
+      try {
+        data = JSON.parse(data)
+      }catch (e) {
+      }
+
+    }
     if (this.events[eventName]) {
       this.events[eventName].forEach((fn) => {
         fn(data);
@@ -216,14 +298,11 @@ class EventBus {
   }
 
   on(eventName, fn) {
+    console.log('EventBus.on', eventName);
     this.events[eventName] = this.events[eventName] || [];
     this.events[eventName].push(fn);
   }
 }
-(function (){
-    window.__jsb = new jsb();
-    window.__eventBus = new EventBus();
-    window.__safeAreaInsets = "{native.safeAreaInsets}";
-})()
 
-
+window.__jsb = new jsb();
+window.__eventBus = new EventBus();

@@ -291,6 +291,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 SWIFT_CLASS("_TtC15KonkeSdk4YinYue23H5ContentViewController")
 @interface H5ContentViewController : UIViewController
 - (void)viewDidLoad;
+- (void)viewDidLayoutSubviews;
 @property (nonatomic, readonly) UIStatusBarStyle preferredStatusBarStyle;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewDidAppear:(BOOL)animated;
@@ -326,6 +327,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) H5Manager * 
 @property (nonatomic) BOOL isDebug;
 - (void)setupDebug:(NSString * _Nonnull)host;
 @end
+
+
 
 
 

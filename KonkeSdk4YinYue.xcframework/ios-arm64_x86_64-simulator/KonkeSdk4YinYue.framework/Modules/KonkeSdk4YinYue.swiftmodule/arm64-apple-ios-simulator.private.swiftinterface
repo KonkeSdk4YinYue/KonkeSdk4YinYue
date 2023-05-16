@@ -15,6 +15,9 @@ public enum KonkeSdk4YinYueRunner {
   public static func prepare()
   public static func openSdkHome(by viewController: UIKit.UIViewController)
 }
+@_hasMissingDesignatedInitializers public class ViewStackJSB {
+  @objc deinit
+}
 public struct WebViewInvoke : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
@@ -204,6 +207,7 @@ extension KonkeSdk4YinYue.H5ContentViewStack where Self : UIKit.UIViewController
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class H5ContentViewController : UIKit.UIViewController, KonkeSdk4YinYue.H5ContentViewStack {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
   @objc deinit
   @_Concurrency.MainActor(unsafe) @objc override dynamic public var preferredStatusBarStyle: UIKit.UIStatusBarStyle {
     @objc get
@@ -222,9 +226,6 @@ public typealias JSBInvocationCallback = (_ response: KonkeSdk4YinYue.WebViewRes
 @_hasMissingDesignatedInitializers public class JSBInvocation {
   public var invoke: KonkeSdk4YinYue.WebViewInvoke
   weak public var webview: KonkeSdk4YinYue.H5ContentWebView?
-  @objc deinit
-}
-@_hasMissingDesignatedInitializers public class ViewStackJSB {
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class EventForwarderJSB {
