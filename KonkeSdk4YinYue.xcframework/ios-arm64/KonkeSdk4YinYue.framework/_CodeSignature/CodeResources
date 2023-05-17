@@ -96,6 +96,10 @@
 		<data>
 		4qqgTuqZEtwio0mmc1p2VU6hq6k=
 		</data>
+		<key>dist/assets/dev-light-a7b9a014.js</key>
+		<data>
+		gzxyvXwCiS5lbRjAgXnfUnLj/A0=
+		</data>
 		<key>dist/assets/devaddlist-f3ce049f.js</key>
 		<data>
 		bstk/AiAAlMhiotqYxEDH+EN7/s=
@@ -243,6 +247,14 @@
 		<key>dist/assets/ic_home_dev_light-eb06839b.svg</key>
 		<data>
 		tbM2Bgq2pWRyoywuzCmM1v36+TA=
+		</data>
+		<key>dist/assets/ic_light_off-fccb72a9.svg</key>
+		<data>
+		8hd9eYls6aQSVe5QfCKf+4Eo1VQ=
+		</data>
+		<key>dist/assets/ic_light_on-c743539b.svg</key>
+		<data>
+		E9NFN42hpSDasBshH1K33W+9Yyo=
 		</data>
 		<key>dist/assets/ic_mode_cold-94253fc1.svg</key>
 		<data>
@@ -416,6 +428,10 @@
 		<data>
 		q1gsa7gtKH5RslS7CwePnNFIijU=
 		</data>
+		<key>dist/assets/index-01b5b9d1.css</key>
+		<data>
+		I+3S9IzQM/dmt6JFofJ0wh30xRI=
+		</data>
 		<key>dist/assets/index-03f6bb18.js</key>
 		<data>
 		CAxA44TObD2p3+wPlqGw4fbpdI8=
@@ -496,10 +512,6 @@
 		<data>
 		pgd8qwGKHzFrZgwZ1Vxwo29sxjM=
 		</data>
-		<key>dist/assets/index-51cc6942.css</key>
-		<data>
-		ih1rH7qWPJEQDZq2dp/tyZ8wGcU=
-		</data>
 		<key>dist/assets/index-54678c1a.css</key>
 		<data>
 		aKNZLsFhNL6joHELKwXaULcaq/M=
@@ -507,6 +519,10 @@
 		<key>dist/assets/index-5987bc0e.css</key>
 		<data>
 		n51lCXcQlY3Ltzw24L4V+SooRcg=
+		</data>
+		<key>dist/assets/index-5a427a23.css</key>
+		<data>
+		hKziMQPElZw6EkzFWAF2YCFBiac=
 		</data>
 		<key>dist/assets/index-5afe6279.css</key>
 		<data>
@@ -752,9 +768,9 @@
 		<data>
 		AN1JPrig3+fgxGu7NgTkdtwi1Kc=
 		</data>
-		<key>dist/assets/smarthome-88ef8299.js</key>
+		<key>dist/assets/smarthome-8cc2d271.js</key>
 		<data>
-		c62iOfzq+VKf/tjkikTuppFsilE=
+		rLCElZ4iLlmD38OkO6ptJ8Am4zU=
 		</data>
 		<key>dist/assets/top_bg-b83b92cb.png</key>
 		<data>
@@ -799,6 +815,10 @@
 		<key>dist/dev-freshair/index.html</key>
 		<data>
 		aOBNz7D7xeu3qdRBsGwbPWidZz0=
+		</data>
+		<key>dist/dev-light/index.html</key>
+		<data>
+		uXeJrVhVjRsFH5YVonIdAoDYpnY=
 		</data>
 		<key>dist/devaddlist/index.html</key>
 		<data>
@@ -898,7 +918,7 @@
 		</data>
 		<key>dist/smarthome/index.html</key>
 		<data>
-		mQqryM3/p9GoObaFvPoD9JrXR+c=
+		lcP1iHVHpnN0z7xiGlc07mtsbms=
 		</data>
 		<key>dist/user-editnickname/index.html</key>
 		<data>
@@ -1063,6 +1083,13 @@
 			<key>hash2</key>
 			<data>
 			rOHHVdJHaD8lqIgU7wP9MVqvgaaIXRUdWSDo9gALWIE=
+			</data>
+		</dict>
+		<key>dist/assets/dev-light-a7b9a014.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HhpMcQOxmvLoM3wnrnv1JrtMQiz/GqneeLE+l6AH/v0=
 			</data>
 		</dict>
 		<key>dist/assets/devaddlist-f3ce049f.js</key>
@@ -1322,6 +1349,20 @@
 			<key>hash2</key>
 			<data>
 			6waDm0JlZsf7df7veb6x02hVC8nPRCJOqDl/IcHgfY0=
+			</data>
+		</dict>
+		<key>dist/assets/ic_light_off-fccb72a9.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/MtyqUNag64JcvoO6GYi/2Z1/eL73Fq6pXL6k8ByUKo=
+			</data>
+		</dict>
+		<key>dist/assets/ic_light_on-c743539b.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x0NTmzrCXQfs1ySoie8N8OQWmjj32Vx+p0+j1zc1MEU=
 			</data>
 		</dict>
 		<key>dist/assets/ic_mode_cold-94253fc1.svg</key>
@@ -1625,6 +1666,13 @@
 			3CBlblB6KQxpYhoDVLDtGfZ2l5JJVrUJQpGBLS9sHuU=
 			</data>
 		</dict>
+		<key>dist/assets/index-01b5b9d1.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AbW50W/YyoiJ/arpI+X2w12IkzJKu67B8wHMgN3PAmU=
+			</data>
+		</dict>
 		<key>dist/assets/index-03f6bb18.js</key>
 		<dict>
 			<key>hash2</key>
@@ -1765,13 +1813,6 @@
 			UaUNE5OTZpx0KuI5P/dzxYE8YVH/05QDzMtYNCm5PC8=
 			</data>
 		</dict>
-		<key>dist/assets/index-51cc6942.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UcxpQrZuaf+V5xE+Dsmgz/Jl+7GzEdVuOjNMobcrAPM=
-			</data>
-		</dict>
 		<key>dist/assets/index-54678c1a.css</key>
 		<dict>
 			<key>hash2</key>
@@ -1784,6 +1825,13 @@
 			<key>hash2</key>
 			<data>
 			WYe8Dtmov1AGUTtUl3Wk4DVfGmLcRulMZGBS/3qXpZ0=
+			</data>
+		</dict>
+		<key>dist/assets/index-5a427a23.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WkJ6I0sm/UnO+03i9FPUgVGWG1M0J6zcPSW0HS3EX18=
 			</data>
 		</dict>
 		<key>dist/assets/index-5afe6279.css</key>
@@ -2213,11 +2261,11 @@
 			2WztYBTLsYcWbzqlW0rDY0zELRMHdcZwV468Ki25F/c=
 			</data>
 		</dict>
-		<key>dist/assets/smarthome-88ef8299.js</key>
+		<key>dist/assets/smarthome-8cc2d271.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			okIshnGbf2BvVRo24kb9CyhJAejzUByDj9NBiy8ay2s=
+			hTGAVsbM30Sqh5UScWnXnaEnvgqINrZbdAkb+Zv4+Ks=
 			</data>
 		</dict>
 		<key>dist/assets/top_bg-b83b92cb.png</key>
@@ -2295,6 +2343,13 @@
 			<key>hash2</key>
 			<data>
 			o4aEJmRvboO5q4pQTrFIgSCd8b/eLyauUZO52m0u0Mg=
+			</data>
+		</dict>
+		<key>dist/dev-light/index.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HTbxQe6s4cAGTyjnL75qK3WEBX0reI6pvnSWCyztDlE=
 			</data>
 		</dict>
 		<key>dist/devaddlist/index.html</key>
@@ -2469,7 +2524,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tfeop8k3+b3IuNc2Ar/fGx+36wSCrxELU80VL1TPUTs=
+			kj+whDEg2vaJMKbNiKoSdh/N60O5MzS21wq3f1q/s3E=
 			</data>
 		</dict>
 		<key>dist/user-editnickname/index.html</key>
