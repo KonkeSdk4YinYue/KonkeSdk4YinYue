@@ -258,9 +258,9 @@ class jsb {
     }
   }
 
-  pop() {
+  pop(params) {
     if (window.__has_jsb) {
-      this.invoke({scope: 'window', method: 'pop'});
+      this.invoke({scope: 'window', method: 'pop',params});
     } else {
       window.history.back();
     }
