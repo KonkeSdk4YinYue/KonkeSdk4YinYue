@@ -332,6 +332,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) H5Manager * 
 
 
 
+
 #endif
 #if defined(__cplusplus)
 #endif
