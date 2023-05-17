@@ -239,7 +239,14 @@ class jsb {
     if (window.__has_jsb) {
       this.invoke({scope: 'window', method: 'push', params});
     } else {
-      window.location = params.route;
+      if (params.params) {
+        const route = params.route + '?' + Object.keys(params.params).map(key => {
+          return `${key}=${params.params[key]}`;
+        }).join('&');
+        window.location = route;
+      } else {
+        window.location = params.route;
+      }
     }
   }
 

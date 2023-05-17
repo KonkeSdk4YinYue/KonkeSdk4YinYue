@@ -43,7 +43,7 @@ public let H5ManagerDefaultDocumentDirectory: Swift.String
   @objc deinit
 }
 extension WebKit.WKWebView {
-  @_Concurrency.MainActor(unsafe) public func loadH5Page(_ pageName: Swift.String)
+  @_Concurrency.MainActor(unsafe) public func loadH5Page(_ pageName: Swift.String, query: Swift.String?)
 }
 @frozen public struct AnyCodable : Swift.Codable {
   public let value: Any
