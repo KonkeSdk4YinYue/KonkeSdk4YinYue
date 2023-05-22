@@ -59,6 +59,22 @@ class jsb {
 
   // helper methods
 
+  scanQR() {
+    return new Promise((resolve, reject) => {
+      this.invoke({
+        scope: 'app',
+        method: 'scanQR',
+        callback: ({responseBody, success}) => {
+          if (success !== true) {
+            reject(responseBody);
+          } else {
+            resolve(responseBody);
+          }
+        },
+      });
+    });
+  }
+
   getPageParams() {
     return new Promise((resolve, reject) => {
       this.invoke({
@@ -290,7 +306,7 @@ class EventBus {
 
   emit(eventName, data) {
     console.log('EventBus.emit', eventName, data);
-    if (window.__is_android && data != null && data != '') {
+    if (data?.includes('{') || data?.includes('[')) {
       try {
         data = JSON.parse(data)
       }catch (e) {

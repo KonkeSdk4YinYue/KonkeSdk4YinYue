@@ -3262,102 +3262,6 @@
             "funcSelfKind": "NonMutating"
           },
           {
-            "kind": "Function",
-            "name": "viewDidAppear",
-            "printedName": "viewDidAppear(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@KonkeSdk4YinYue@objc(cs)H5ContentViewController(im)viewDidAppear:",
-            "mangledName": "$s15KonkeSdk4YinYue23H5ContentViewControllerC13viewDidAppearyySbF",
-            "moduleName": "KonkeSdk4YinYue",
-            "overriding": true,
-            "objc_name": "viewDidAppear:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Override",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "viewWillDisappear",
-            "printedName": "viewWillDisappear(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@KonkeSdk4YinYue@objc(cs)H5ContentViewController(im)viewWillDisappear:",
-            "mangledName": "$s15KonkeSdk4YinYue23H5ContentViewControllerC17viewWillDisappearyySbF",
-            "moduleName": "KonkeSdk4YinYue",
-            "overriding": true,
-            "objc_name": "viewWillDisappear:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Override",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "viewDidDisappear",
-            "printedName": "viewDidDisappear(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@KonkeSdk4YinYue@objc(cs)H5ContentViewController(im)viewDidDisappear:",
-            "mangledName": "$s15KonkeSdk4YinYue23H5ContentViewControllerC16viewDidDisappearyySbF",
-            "moduleName": "KonkeSdk4YinYue",
-            "overriding": true,
-            "objc_name": "viewDidDisappear:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Override",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(nibName:bundle:)",
@@ -3828,6 +3732,23 @@
         "hasMissingDesignatedInitializers": true
       },
       {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "KonkeSdk4YinYue",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "KonkeSdk4YinYue"
+      },
+      {
         "kind": "TypeDecl",
         "name": "WKWebView",
         "printedName": "WKWebView",
@@ -3966,15 +3887,22 @@
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
+      "kind": "StringLiteral",
+      "offset": 259,
+      "length": 27,
+      "value": "\"http:\/\/192.168.0.106:5173\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "BooleanLiteral",
-      "offset": 582,
+      "offset": 650,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "BooleanLiteral",
-      "offset": 728,
+      "offset": 796,
       "length": 4,
       "value": "true"
     },
@@ -4023,112 +3951,168 @@
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1141,
+      "offset": 987,
+      "length": 25,
+      "value": "\"[WebSocket] >>> \""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1011,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1199,
       "length": 13,
       "value": "\"messageType\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1192,
+      "offset": 1256,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1277,
+      "offset": 1341,
       "length": 14,
       "value": "\"DeviceReport\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1336,
+      "offset": 1400,
       "length": 8,
       "value": "\"Joined\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1385,
+      "offset": 1448,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1515,
+      "length": 12,
+      "value": "\"userDevice\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1805,
+      "length": 7,
+      "value": "\"Joind\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1862,
+      "length": 16,
+      "value": "\"network-zigbee\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1981,
       "length": 8,
       "value": "\"Normal\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2029,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2305,
+      "length": 13,
+      "value": "\"deviceEvent\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 1744,
+      "offset": 2782,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1767,
+      "offset": 2805,
       "length": 36,
       "value": "\"websocket is connected: \""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1802,
+      "offset": 2840,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 1881,
+      "offset": 2919,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1905,
+      "offset": 2943,
       "length": 57,
       "value": "\"websocket is disconnected: \""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1942,
+      "offset": 2980,
       "length": 4,
       "value": "\" with code: \""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1961,
+      "offset": 2999,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 2081,
+      "offset": 3119,
       "length": 30,
       "value": "\"Received data: \""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 2110,
+      "offset": 3148,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 2360,
+      "offset": 3398,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 2424,
+      "offset": 3462,
       "length": 5,
       "value": "false"
     },
@@ -4896,79 +4880,135 @@
       "value": "true"
     },
     {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSBs\/AppJSB.swift",
+      "kind": "StringLiteral",
+      "offset": 1565,
+      "length": 8,
+      "value": "\"scanQR\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSBs\/AppJSB.swift",
+      "kind": "StringLiteral",
+      "offset": 1710,
+      "length": 7,
+      "value": "\"value\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSBs\/AppJSB.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1742,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSBs\/AppJSB.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1866,
+      "length": 4,
+      "value": "true"
+    },
+    {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "StringLiteral",
-      "offset": 446,
+      "offset": 316,
+      "length": 8,
+      "value": "\"返回\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 592,
       "length": 11,
       "value": "\"smarthome\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "StringLiteral",
-      "offset": 537,
+      "offset": 683,
       "length": 7,
       "value": "\"login\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1388,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "StringLiteral",
-      "offset": 894,
+      "offset": 1436,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1045,
+      "offset": 1587,
       "length": 9,
       "value": "\"native\/\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1117,
+      "offset": 1659,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1122,
+      "offset": 1664,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1172,
+      "offset": 1714,
       "length": 8,
       "value": "\"tabbar\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1301,
+      "offset": 1843,
       "length": 39,
       "value": "\"暂不支持的页面，请更新 SDK\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1522,
+      "offset": 2064,
       "length": 39,
       "value": "\"暂不支持的页面，请更新 SDK\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2158,
+      "offset": 2700,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2791,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2329,
+      "offset": 2955,
+      "length": 8,
+      "value": "\"reload\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3182,
       "length": 21,
       "value": "\"login-state-changed\""
     },
@@ -5150,161 +5190,105 @@
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
-      "offset": 3479,
-      "length": 11,
-      "value": "\"eventName\""
-    },
-    {
-      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
-      "kind": "StringLiteral",
-      "offset": 3581,
-      "length": 10,
-      "value": "\"fromPage\""
-    },
-    {
-      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
-      "kind": "StringLiteral",
-      "offset": 3716,
-      "length": 8,
-      "value": "\"toPage\""
-    },
-    {
-      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
-      "kind": "StringLiteral",
-      "offset": 3872,
-      "length": 11,
-      "value": "\"eventData\""
-    },
-    {
-      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
-      "kind": "StringLiteral",
-      "offset": 3969,
-      "length": 46,
+      "offset": 3808,
+      "length": 57,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
-      "offset": 3985,
+      "offset": 3824,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
-      "offset": 3999,
+      "offset": 3849,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
-      "offset": 4011,
+      "offset": 3861,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
-      "offset": 4014,
+      "offset": 3864,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
-      "offset": 4329,
+      "offset": 4179,
       "length": 57,
       "value": "\"window.__eventBus.emit('\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
-      "offset": 4366,
+      "offset": 4216,
       "length": 4,
       "value": "\"', '\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
-      "offset": 4380,
+      "offset": 4230,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
-      "offset": 4383,
+      "offset": 4233,
       "length": 4,
       "value": "\"')\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
-      "offset": 4484,
-      "length": 11,
-      "value": "\"lifecycle\""
-    },
-    {
-      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
-      "kind": "StringLiteral",
-      "offset": 4648,
-      "length": 16,
-      "value": "\"viewWillAppear\""
-    },
-    {
-      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
-      "kind": "StringLiteral",
-      "offset": 4798,
-      "length": 15,
-      "value": "\"viewDidAppear\""
-    },
-    {
-      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
-      "kind": "StringLiteral",
-      "offset": 4955,
-      "length": 19,
-      "value": "\"viewWillDisappear\""
-    },
-    {
-      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
-      "kind": "StringLiteral",
-      "offset": 5114,
-      "length": 18,
-      "value": "\"viewDidDisappear\""
+      "offset": 4445,
+      "length": 8,
+      "value": "\"reload\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "BooleanLiteral",
-      "offset": 5484,
+      "offset": 4816,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
-      "offset": 5785,
+      "offset": 5117,
       "length": 15,
       "value": "\"getPageParams\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "BooleanLiteral",
-      "offset": 5863,
+      "offset": 5195,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
-      "offset": 5883,
+      "offset": 5215,
       "length": 11,
       "value": "\"pickImage\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "BooleanLiteral",
-      "offset": 6336,
+      "offset": 5668,
       "length": 4,
       "value": "true"
     },
@@ -5535,14 +5519,14 @@
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/UserDefaults+Ext.swift",
       "kind": "StringLiteral",
-      "offset": 1116,
+      "offset": 689,
       "length": 11,
       "value": "\"userToken\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/UserDefaults+Ext.swift",
       "kind": "StringLiteral",
-      "offset": 1173,
+      "offset": 751,
       "length": 13,
       "value": "\"accessToken\""
     },
@@ -5563,9 +5547,58 @@
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSBs\/EventForwarderJSB.swift",
       "kind": "StringLiteral",
-      "offset": 567,
+      "offset": 439,
+      "length": 11,
+      "value": "\"eventName\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSBs\/EventForwarderJSB.swift",
+      "kind": "StringLiteral",
+      "offset": 607,
+      "length": 11,
+      "value": "\"eventData\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSBs\/EventForwarderJSB.swift",
+      "kind": "StringLiteral",
+      "offset": 680,
+      "length": 10,
+      "value": "\"fromPage\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSBs\/EventForwarderJSB.swift",
+      "kind": "StringLiteral",
+      "offset": 750,
+      "length": 8,
+      "value": "\"toPage\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSBs\/EventForwarderJSB.swift",
+      "kind": "StringLiteral",
+      "offset": 969,
       "length": 19,
       "value": "\"jsb-forward-event\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYScanViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1383,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYScanViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1666,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYScanViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2102,
+      "length": 4,
+      "value": "true"
     }
   ]
 }
