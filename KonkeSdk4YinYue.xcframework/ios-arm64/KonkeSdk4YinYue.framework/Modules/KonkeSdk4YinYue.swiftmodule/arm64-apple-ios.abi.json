@@ -3888,21 +3888,49 @@
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
-      "offset": 259,
-      "length": 27,
-      "value": "\"http:\/\/192.168.0.106:5173\""
+      "offset": 329,
+      "length": 6,
+      "value": "\"http\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
+      "kind": "StringLiteral",
+      "offset": 459,
+      "length": 21,
+      "value": "\"http:\/\/\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
+      "kind": "StringLiteral",
+      "offset": 479,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
+      "kind": "StringLiteral",
+      "offset": 553,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "BooleanLiteral",
-      "offset": 650,
+      "offset": 642,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 889,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "BooleanLiteral",
-      "offset": 796,
+      "offset": 1035,
       "length": 4,
       "value": "true"
     },
@@ -5519,14 +5547,14 @@
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/UserDefaults+Ext.swift",
       "kind": "StringLiteral",
-      "offset": 689,
+      "offset": 729,
       "length": 11,
       "value": "\"userToken\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/UserDefaults+Ext.swift",
       "kind": "StringLiteral",
-      "offset": 751,
+      "offset": 791,
       "length": 13,
       "value": "\"accessToken\""
     },
