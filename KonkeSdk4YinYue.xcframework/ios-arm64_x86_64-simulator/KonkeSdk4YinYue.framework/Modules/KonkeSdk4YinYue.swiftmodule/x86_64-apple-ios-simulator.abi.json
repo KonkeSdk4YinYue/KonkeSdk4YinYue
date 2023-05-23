@@ -4063,84 +4063,105 @@
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 2305,
+      "offset": 2352,
+      "length": 10,
+      "value": "\"identify\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2379,
+      "length": 17,
+      "value": "\"learnCodeNotify\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2431,
+      "length": 17,
+      "value": "\"learnCodeNotify\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2506,
       "length": 13,
       "value": "\"deviceEvent\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 2782,
+      "offset": 3061,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 2805,
+      "offset": 3084,
       "length": 36,
       "value": "\"websocket is connected: \""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 2840,
+      "offset": 3119,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 2919,
+      "offset": 3198,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 2943,
+      "offset": 3222,
       "length": 57,
       "value": "\"websocket is disconnected: \""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 2980,
+      "offset": 3259,
       "length": 4,
       "value": "\" with code: \""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 2999,
+      "offset": 3278,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 3119,
+      "offset": 3398,
       "length": 30,
       "value": "\"Received data: \""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 3148,
+      "offset": 3427,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 3398,
+      "offset": 3677,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 3462,
+      "offset": 3741,
       "length": 5,
       "value": "false"
     },
