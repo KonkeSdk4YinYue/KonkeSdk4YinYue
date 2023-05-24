@@ -668,6 +668,10 @@
 		<data>
 		KtvC5b8C0QUPZxsHicNlWtshBjw=
 		</data>
+		<key>dist/assets/index-234d01b6.css</key>
+		<data>
+		N8K2dB8Z4HyR9upGGtjJOe2snKY=
+		</data>
 		<key>dist/assets/index-2423dd28.css</key>
 		<data>
 		+wSCyaB1beW/CzaIq794G8ndu9A=
@@ -715,10 +719,6 @@
 		<key>dist/assets/index-4637bf1e.css</key>
 		<data>
 		ee7sOMmKvNTFygYLpqhvkTLJCA8=
-		</data>
-		<key>dist/assets/index-47db12a6.css</key>
-		<data>
-		dbZBpmKX6Ws3ZISC0UNXshmhGYg=
 		</data>
 		<key>dist/assets/index-49c1332d.css</key>
 		<data>
@@ -1080,9 +1080,9 @@
 		<data>
 		7U7JgbS1vlgl7XKyPLE8Jr/V+RI=
 		</data>
-		<key>dist/assets/smarthome-2041d240.js</key>
+		<key>dist/assets/smarthome-d86e7501.js</key>
 		<data>
-		5PmDlxD4q/gwoI+qAXLJ1pq4njg=
+		bfbK269WiWpsK9xb1CUvcCAfS88=
 		</data>
 		<key>dist/assets/sure-alert-51232edd.js</key>
 		<data>
@@ -1318,7 +1318,7 @@
 		</data>
 		<key>dist/smarthome/index.html</key>
 		<data>
-		aYcKqWiiMLUzEN+kXV72eotk0Qg=
+		xZxR3JMhs7QKFBw3W7Xy/ZF9ZO4=
 		</data>
 		<key>dist/user-editnickname/index.html</key>
 		<data>
@@ -2490,6 +2490,13 @@
 			HuXYZmcNvDa5HCLVZTeBlrLo4FghQWJs6iv27yQRA9Y=
 			</data>
 		</dict>
+		<key>dist/assets/index-234d01b6.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I00BtmQknNk7EGxgMeOBo0QINHMOhuRumzCX8LajJrQ=
+			</data>
+		</dict>
 		<key>dist/assets/index-2423dd28.css</key>
 		<dict>
 			<key>hash2</key>
@@ -2572,13 +2579,6 @@
 			<key>hash2</key>
 			<data>
 			Rje/HgVg0f/+EE3g2Md5NZo8ejSJ4y26q6dFW9aPeFM=
-			</data>
-		</dict>
-		<key>dist/assets/index-47db12a6.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			R9sSpv/OSBbWyyXBtt6+zn7jw7PVosrnYmCfl++CFXI=
 			</data>
 		</dict>
 		<key>dist/assets/index-49c1332d.css</key>
@@ -3211,11 +3211,11 @@
 			lF/VOBW02eFPLn0z21+9vQCOvPR5G6jEseLWHwtxZR8=
 			</data>
 		</dict>
-		<key>dist/assets/smarthome-2041d240.js</key>
+		<key>dist/assets/smarthome-d86e7501.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bh004JWlFj+NPg648KyxEIG6U1ZWO6KLxEPO7RVzH20=
+			qZ4DJZ2VVHY4w2o5TBulbUl1tfqg4eU1ZkOo6Ea0EMI=
 			</data>
 		</dict>
 		<key>dist/assets/sure-alert-51232edd.js</key>
@@ -3628,7 +3628,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DvLUvJIs/JurjTOOgwHCmk/ATPsqja24QiSyV3fn7VU=
+			IsinfBNY5z7TaobnosH6YEhyRCa8saG3t7doytgbBnY=
 			</data>
 		</dict>
 		<key>dist/user-editnickname/index.html</key>
