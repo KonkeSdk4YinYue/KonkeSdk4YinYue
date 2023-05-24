@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/KonkeSdk4YinYue/KonkeSdk4YinYue'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'weichengwu' => 'wuvcen@gmail.com' }
-  s.source           = { :git => 'https://github.com/KonkeSdk4YinYue/KonkeSdk4YinYue.git', :ref => 'main' }
+  s.source           = { :git => 'https://github.com/KonkeSdk4YinYue/KonkeSdk4YinYue.git', :branch => 'main' }
   s.ios.deployment_target = '11.0'
   s.vendored_frameworks = 'KonkeSdk4YinYue.xcframework'
   s.dependency 'Starscream', '~> 4.0.0'
