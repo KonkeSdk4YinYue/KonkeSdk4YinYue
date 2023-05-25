@@ -12,9 +12,11 @@ import UIKit
 import WebKit
 import _Concurrency
 import _StringProcessing
-public enum KonkeSdk4YinYueRunner {
-  public static func prepare()
-  public static func openSdkHome(by viewController: UIKit.UIViewController)
+@_inheritsConvenienceInitializers @objc public class KonkeSdk4YinYueRunner : ObjectiveC.NSObject {
+  @objc public static func prepare()
+  @objc public static func openSdkHome(by viewController: UIKit.UIViewController)
+  @objc override dynamic public init()
+  @objc deinit
 }
 @_hasMissingDesignatedInitializers public class ViewStackJSB {
   @objc deinit
