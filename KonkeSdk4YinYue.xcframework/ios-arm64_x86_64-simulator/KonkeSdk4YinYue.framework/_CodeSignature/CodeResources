@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/KonkeSdk4YinYue-Swift.h</key>
 		<data>
-		IT5GN+HqMW5o+SD0RV7rN6Aw+U4=
+		stOx3R4wWHwABcfMDmF3ag1wAe0=
 		</data>
 		<key>Headers/KonkeSdk4YinYue.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		6QAc1/6ysfYl3bZOo5OAJmL9Ar4=
+		Ho6h0VjrIvt7hcyiHW3ujzU9u+0=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		rRgwIu8ClUoKGICn4U5izIIjgVU=
+		ms51bJdnFV3AosjAeksRzTPFVxo=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		rRgwIu8ClUoKGICn4U5izIIjgVU=
+		ms51bJdnFV3AosjAeksRzTPFVxo=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7MDrxq8krrAvzRmqWXR2CaeDj/U=
+		aqwU1KTmKaf6Mz9+nReN90Jaz8U=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		6QAc1/6ysfYl3bZOo5OAJmL9Ar4=
+		Ho6h0VjrIvt7hcyiHW3ujzU9u+0=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		YQf7SlK6erTyJrpdzViF34pCLL0=
+		SAFcyxxxrxmjryE6ypXqOEMe/RA=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YQf7SlK6erTyJrpdzViF34pCLL0=
+		SAFcyxxxrxmjryE6ypXqOEMe/RA=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/ZsbbSSbGK3rbem2yyG8bkgxE0Y=
+		surG9tVLFRqnINQaK3ZvBp0HlUo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1346,7 +1346,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h/IZiPGzGbyDqSnAtskLPcZVuFYcAtKQL4BTRuPwb+E=
+			HNo4wQKr7yk62P4CanAnMMJQ7AYxeseKyrOH70jJsR8=
 			</data>
 		</dict>
 		<key>Headers/KonkeSdk4YinYue.h</key>
@@ -1360,14 +1360,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ugfakUsGSgmlWLDs8Pq7Ze33PmPSyaCrc1oDnySEy68=
+			g3yDz/maCXaVO/GZaBBSZAFJRnhbTJkPGqj/cnKW21Y=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UP0cSyNUiHQcKg3c68tBA1ll9jA6lC6RZUWtgqNQOUQ=
+			XjQ3o2SV+bV9QKWakhdZyxYGNSdzeBWhTUslqx2AIm4=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1381,28 +1381,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UP0cSyNUiHQcKg3c68tBA1ll9jA6lC6RZUWtgqNQOUQ=
+			XjQ3o2SV+bV9QKWakhdZyxYGNSdzeBWhTUslqx2AIm4=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vy/wgzeMFi2AXs9D9uyFm8ACXTR214sn9e9PYptVgiM=
+			qovV5jjmYF6zckWtwNtPaGUBOpqUHUa13oLpl5ZjRO8=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ugfakUsGSgmlWLDs8Pq7Ze33PmPSyaCrc1oDnySEy68=
+			g3yDz/maCXaVO/GZaBBSZAFJRnhbTJkPGqj/cnKW21Y=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hF6puAKpCQM4jzNwFSMGSe58hx3aYlg86NqfsHdV/BE=
+			BtpnSkbKNB4P3gbKK8OwkHlCrFd1k1VdrNu+2+aRvFE=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1416,14 +1416,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hF6puAKpCQM4jzNwFSMGSe58hx3aYlg86NqfsHdV/BE=
+			BtpnSkbKNB4P3gbKK8OwkHlCrFd1k1VdrNu+2+aRvFE=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qmAMMrctYaO+QQR+atz5Y7VOqQtVtQN48XDRTm4ojhE=
+			tjKBwanedArB7taCBPX7XJMsHnqcxPci6SSO08CZw5E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

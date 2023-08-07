@@ -326,6 +326,14 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) H5Manager * 
 @end
 
 
+SWIFT_CLASS("_TtC15KonkeSdk4YinYue21KonkeSdk4YinYueRunner")
+@interface KonkeSdk4YinYueRunner : NSObject
++ (void)prepare;
++ (void)openSdkHomeBy:(UIViewController * _Nonnull)viewController;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 
 
 
@@ -663,6 +671,14 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) H5Manager * 
 - (void)setup:(NSString * _Nonnull)mainBundleDirectory;
 @property (nonatomic) BOOL isDebug;
 - (void)setupDebug:(NSString * _Nonnull)host;
+@end
+
+
+SWIFT_CLASS("_TtC15KonkeSdk4YinYue21KonkeSdk4YinYueRunner")
+@interface KonkeSdk4YinYueRunner : NSObject
++ (void)prepare;
++ (void)openSdkHomeBy:(UIViewController * _Nonnull)viewController;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 

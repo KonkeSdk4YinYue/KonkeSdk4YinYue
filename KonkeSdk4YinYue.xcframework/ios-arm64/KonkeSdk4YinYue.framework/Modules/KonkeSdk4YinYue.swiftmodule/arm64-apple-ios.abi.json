@@ -31,12 +31,14 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15KonkeSdk4YinYue0abcD6RunnerO7prepareyyFZ",
-            "mangledName": "$s15KonkeSdk4YinYue0abcD6RunnerO7prepareyyFZ",
+            "usr": "c:@M@KonkeSdk4YinYue@objc(cs)KonkeSdk4YinYueRunner(cm)prepare",
+            "mangledName": "$s15KonkeSdk4YinYue0abcD6RunnerC7prepareyyFZ",
             "moduleName": "KonkeSdk4YinYue",
             "static": true,
             "declAttributes": [
-              "AccessControl"
+              "Final",
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -58,22 +60,108 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15KonkeSdk4YinYue0abcD6RunnerO11openSdkHome2byySo16UIViewControllerC_tFZ",
-            "mangledName": "$s15KonkeSdk4YinYue0abcD6RunnerO11openSdkHome2byySo16UIViewControllerC_tFZ",
+            "usr": "c:@M@KonkeSdk4YinYue@objc(cs)KonkeSdk4YinYueRunner(cm)openSdkHomeBy:",
+            "mangledName": "$s15KonkeSdk4YinYue0abcD6RunnerC11openSdkHome2byySo16UIViewControllerC_tFZ",
             "moduleName": "KonkeSdk4YinYue",
             "static": true,
+            "objc_name": "openSdkHomeBy:",
             "declAttributes": [
-              "AccessControl"
+              "Final",
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KonkeSdk4YinYueRunner",
+                "printedName": "KonkeSdk4YinYue.KonkeSdk4YinYueRunner",
+                "usr": "c:@M@KonkeSdk4YinYue@objc(cs)KonkeSdk4YinYueRunner"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@KonkeSdk4YinYue@objc(cs)KonkeSdk4YinYueRunner(im)init",
+            "mangledName": "$s15KonkeSdk4YinYue0abcD6RunnerCACycfc",
+            "moduleName": "KonkeSdk4YinYue",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
           }
         ],
-        "declKind": "Enum",
-        "usr": "s:15KonkeSdk4YinYue0abcD6RunnerO",
-        "mangledName": "$s15KonkeSdk4YinYue0abcD6RunnerO",
+        "declKind": "Class",
+        "usr": "c:@M@KonkeSdk4YinYue@objc(cs)KonkeSdk4YinYueRunner",
+        "mangledName": "$s15KonkeSdk4YinYue0abcD6RunnerC",
         "moduleName": "KonkeSdk4YinYue",
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
         ]
       },
       {
@@ -3881,56 +3969,56 @@
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
-      "offset": 215,
+      "offset": 242,
       "length": 6,
       "value": "\"dist\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
-      "offset": 329,
+      "offset": 356,
       "length": 6,
       "value": "\"http\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
-      "offset": 459,
+      "offset": 486,
       "length": 21,
       "value": "\"http:\/\/\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
-      "offset": 479,
+      "offset": 506,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
-      "offset": 553,
+      "offset": 580,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "BooleanLiteral",
-      "offset": 642,
+      "offset": 669,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "BooleanLiteral",
-      "offset": 889,
+      "offset": 926,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/waynewu\/.jenkins\/workspace\/KonkeSdk4YinYue_Src_main\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "BooleanLiteral",
-      "offset": 1035,
+      "offset": 1072,
       "length": 4,
       "value": "true"
     },
