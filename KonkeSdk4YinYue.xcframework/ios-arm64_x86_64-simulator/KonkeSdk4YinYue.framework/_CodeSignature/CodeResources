@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		mVO+FEcqKy/N18lgIxMPhmmGKW8=
+		dWGLmhODyi7u34RuoTlZMJqi6+4=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		mVO+FEcqKy/N18lgIxMPhmmGKW8=
+		dWGLmhODyi7u34RuoTlZMJqi6+4=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -128,9 +128,9 @@
 		<data>
 		/nffsYHgOwDwedRyZ6WTnQ7Xxi0=
 		</data>
-		<key>dist/assets/dev-infrared-edit-65e95725.js</key>
+		<key>dist/assets/dev-infrared-edit-620d6b1c.js</key>
 		<data>
-		gOnKranVY5aYFOP1VtCIzLNAalQ=
+		40XcEQBq5ZL0M1C+ip36G3zkCZk=
 		</data>
 		<key>dist/assets/dev-infrared-fan-8d0cfa92.js</key>
 		<data>
@@ -176,9 +176,9 @@
 		<data>
 		Dwa++7M7PDompkPJrgPvOMKNSTI=
 		</data>
-		<key>dist/assets/devedit-f885290d.js</key>
+		<key>dist/assets/devedit-3d3af266.js</key>
 		<data>
-		GXQ1Jwv6lHi2PtsjROE86m4BuFs=
+		ZNuQvPOQNNR5M5me7Bw2xuJTlGk=
 		</data>
 		<key>dist/assets/devhelp-a83f663e.js</key>
 		<data>
@@ -776,6 +776,10 @@
 		<data>
 		dOp8/DJzPhPYneK/x1iG197bUV4=
 		</data>
+		<key>dist/assets/index-6b7bc20b.css</key>
+		<data>
+		oGlcuyeeIJX+EfdQZTY2HvXuVK4=
+		</data>
 		<key>dist/assets/index-6dffa98d.css</key>
 		<data>
 		v733qBOnmcbKCfWuphgDBHJSF7M=
@@ -795,10 +799,6 @@
 		<key>dist/assets/index-7aecd7f0.css</key>
 		<data>
 		e2j4I44LtOuvz4RGJS+tX85pNvQ=
-		</data>
-		<key>dist/assets/index-7ba86d1b.css</key>
-		<data>
-		/OvfG86iqF05zUPUlmZteIZbZo0=
 		</data>
 		<key>dist/assets/index-7c2bb3de.js</key>
 		<data>
@@ -1020,17 +1020,17 @@
 		<data>
 		wqsNmSBOgTOdYAOMw7OC8mrApos=
 		</data>
-		<key>dist/assets/scene-action-dev-736f01f1.js</key>
+		<key>dist/assets/scene-action-dev-b918ede0.js</key>
 		<data>
-		/JuI/EulbeD5HzC+pet9lnukPEQ=
+		jpPgwcCotVrIboJ2u9eaxCkh9PQ=
 		</data>
-		<key>dist/assets/scene-action-light-component-0d0254b4.css</key>
+		<key>dist/assets/scene-action-light-component-c08d38b3.js</key>
 		<data>
-		bOSLe3IPx94L1EIhJ1HmusWFTKk=
+		23d1fB1LZoTCkklsmiBEYM8SWow=
 		</data>
-		<key>dist/assets/scene-action-light-component-ae8c8176.js</key>
+		<key>dist/assets/scene-action-light-component-d630cc72.css</key>
 		<data>
-		C0Kxa3SE76DEsJnI2s/mTSmGGps=
+		pyYYeKx13mPwFQiEEq0ozmmpjiw=
 		</data>
 		<key>dist/assets/scene-action-scene-ddd1b184.js</key>
 		<data>
@@ -1040,9 +1040,9 @@
 		<data>
 		GNYaLU7oCRcakuzapoKa9nl1NIw=
 		</data>
-		<key>dist/assets/scene-auto-46e4ee2b.js</key>
+		<key>dist/assets/scene-auto-7580ed7d.js</key>
 		<data>
-		3nuE6NrBtpJkMUdcbJp8SxhlxgQ=
+		NEBGGOAeY4i0fQXzhbaAXDyjY6Y=
 		</data>
 		<key>dist/assets/scene-cfbe032f.js</key>
 		<data>
@@ -1056,9 +1056,9 @@
 		<data>
 		j1zPV/D40/hLUoy6AMbCL0VPuNE=
 		</data>
-		<key>dist/assets/scene-manual-082f52b6.js</key>
+		<key>dist/assets/scene-manual-1beed270.js</key>
 		<data>
-		cV7VbEuUiYTU5qAXiGirQF1YhiE=
+		0ywpTbsteE6pkzVi1nOyFmpZ6xI=
 		</data>
 		<key>dist/assets/scene-trigger-dev-90c793aa.js</key>
 		<data>
@@ -1162,7 +1162,7 @@
 		</data>
 		<key>dist/dev-infrared-edit/index.html</key>
 		<data>
-		xTio0/zcMWz9b2r1rzooYrH99IM=
+		srBgqSEU+R9T4UJot6tHx1RtNbQ=
 		</data>
 		<key>dist/dev-infrared-fan-learn/index.html</key>
 		<data>
@@ -1202,7 +1202,7 @@
 		</data>
 		<key>dist/devedit/index.html</key>
 		<data>
-		y93Bjck4PopViJP/rwwpQ62pTOY=
+		2YbbrhFOQpVVf4pJdsY00IXbYBI=
 		</data>
 		<key>dist/devhelp/index.html</key>
 		<data>
@@ -1274,7 +1274,7 @@
 		</data>
 		<key>dist/scene-action-dev/index.html</key>
 		<data>
-		Ed9gnHsPJQloVBjkBcgVHej9pFI=
+		qehTAzXL976YUqF0u8UwHNQt9LE=
 		</data>
 		<key>dist/scene-action-scene/index.html</key>
 		<data>
@@ -1286,7 +1286,7 @@
 		</data>
 		<key>dist/scene-auto/index.html</key>
 		<data>
-		zZmGp0BqoS+TpDW49L4Opwv8Tl0=
+		eW4ZyXC2tFLvT/b/bnhMcDEVTNY=
 		</data>
 		<key>dist/scene-limit-time/index.html</key>
 		<data>
@@ -1298,7 +1298,7 @@
 		</data>
 		<key>dist/scene-manual/index.html</key>
 		<data>
-		GbuJC3Z9C1QnxlwR09Txvds4HyA=
+		oAPGswbF9327Aj/IjufTfr8Ykj0=
 		</data>
 		<key>dist/scene-trigger-dev/index.html</key>
 		<data>
@@ -1360,7 +1360,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			66KZ5FZDj/uGCnCf6TkyqDRyUjKFNY1H01gDmoHw+jQ=
+			RzbfSTvjFMjS+84jUc4LxLpOBQ2opUi8gEtgE2GbUA0=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1395,7 +1395,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			66KZ5FZDj/uGCnCf6TkyqDRyUjKFNY1H01gDmoHw+jQ=
+			RzbfSTvjFMjS+84jUc4LxLpOBQ2opUi8gEtgE2GbUA0=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1545,11 +1545,11 @@
 			SLfKELBEopEnLTswJW32sGmNZBXXm56xRd50lik6+6k=
 			</data>
 		</dict>
-		<key>dist/assets/dev-infrared-edit-65e95725.js</key>
+		<key>dist/assets/dev-infrared-edit-620d6b1c.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uxaN2txd9wsx/ZuCEii76+YrYqlHbn14J8Y6W8Y4Lus=
+			xsx37qhnTHM3eHmYJyehjPqOt8HTGD5zX0VsrkdyATc=
 			</data>
 		</dict>
 		<key>dist/assets/dev-infrared-fan-8d0cfa92.js</key>
@@ -1629,11 +1629,11 @@
 			Fpk0Bh8aFVPzpxT4XFbLARuWhG/qWZhEBbP0oyKYwQc=
 			</data>
 		</dict>
-		<key>dist/assets/devedit-f885290d.js</key>
+		<key>dist/assets/devedit-3d3af266.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AbZJcU7LMRuxep/6H1/y5v0pCxGIMdI1S93d5RUy5Fk=
+			343bakXH0tUW7NiZl2JWNVSv1AxbPn3vhrj4r0JoAR0=
 			</data>
 		</dict>
 		<key>dist/assets/devhelp-a83f663e.js</key>
@@ -2679,6 +2679,13 @@
 			aYnPyzvlUstZpTuFCdJh8Sf2RMEcBFgzM//hHjJ5m1M=
 			</data>
 		</dict>
+		<key>dist/assets/index-6b7bc20b.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a3vCC+8ZfWuQE9b+SrBOotREeoMT4KPahf6ZFrYsP8U=
+			</data>
+		</dict>
 		<key>dist/assets/index-6dffa98d.css</key>
 		<dict>
 			<key>hash2</key>
@@ -2712,13 +2719,6 @@
 			<key>hash2</key>
 			<data>
 			euzX8HrPAsKe8EjRucRs4nIV4Rw3X92Lfm/fcxHUPCc=
-			</data>
-		</dict>
-		<key>dist/assets/index-7ba86d1b.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			e6htG2UR2sm47vXxn5QZ+fjiP6KNGN8uege6lw/prwA=
 			</data>
 		</dict>
 		<key>dist/assets/index-7c2bb3de.js</key>
@@ -3106,25 +3106,25 @@
 			uBv086ScCsuEWdyAVwX321DaqfEytGdjTd70QUV8gA0=
 			</data>
 		</dict>
-		<key>dist/assets/scene-action-dev-736f01f1.js</key>
+		<key>dist/assets/scene-action-dev-b918ede0.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7DSbhZy9FY7uuUdKshRz1vlC7vzFb58tZnfdkEPjlAc=
+			elAL+PqyhSXljKeP3I47iKEjNyuK39FwdODlHLDTNoI=
 			</data>
 		</dict>
-		<key>dist/assets/scene-action-light-component-0d0254b4.css</key>
+		<key>dist/assets/scene-action-light-component-c08d38b3.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DQJUtJeTq/jbc8KuoiGy6vTY9ZwrqPInfsXrgTaD1gQ=
+			BpQyWrZMUlFFHayssATHoULx7CU89Mq2Pth8Rdo3q9g=
 			</data>
 		</dict>
-		<key>dist/assets/scene-action-light-component-ae8c8176.js</key>
+		<key>dist/assets/scene-action-light-component-d630cc72.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z0s4JhqKFEtjCPjiHelbM9Vl0tvq+I8fBdaon36HyAE=
+			1jDMcgUlL03CkWjhXr0e8XDvx5zi5LWoQmy2GoAee14=
 			</data>
 		</dict>
 		<key>dist/assets/scene-action-scene-ddd1b184.js</key>
@@ -3141,11 +3141,11 @@
 			mExpY9vg9RWY7MrEChKEev6d/s/h15bldl9G2g3EzOI=
 			</data>
 		</dict>
-		<key>dist/assets/scene-auto-46e4ee2b.js</key>
+		<key>dist/assets/scene-auto-7580ed7d.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I5whhQDtdhZrz11iHOlMtMvORV80+jMloZfUJ73ruKg=
+			Jd3jG0xueFT0VT13g3Q7pRlI/8E3lisevRUqj2qlln0=
 			</data>
 		</dict>
 		<key>dist/assets/scene-cfbe032f.js</key>
@@ -3169,11 +3169,11 @@
 			v1x8RvGgAp1Q2Wh8/gz+nK/mj+FispDOGnmGrzAlIQs=
 			</data>
 		</dict>
-		<key>dist/assets/scene-manual-082f52b6.js</key>
+		<key>dist/assets/scene-manual-1beed270.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EiP+jRU1ISipct8UQXCX+i4uipShWkh56aexzQH26fs=
+			ahXkrF7GqlYK4R2lFpq/T8sMXKmixfFwi29nfXnJV8I=
 			</data>
 		</dict>
 		<key>dist/assets/scene-trigger-dev-90c793aa.js</key>
@@ -3355,7 +3355,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rS1S5tPfI1YguNpUJgHjj/8BwGCvsHEWoEy4VT9O4cs=
+			KYYj/AcomOotnqihJnFgvh6Z1j6vhqEN8J67C0YpGm0=
 			</data>
 		</dict>
 		<key>dist/dev-infrared-fan-learn/index.html</key>
@@ -3425,7 +3425,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7AY7sDzDIxyHoP3bR4fQSYA0Bhorb9ffS+0ldMaDyaI=
+			HviEd6CD/EvNMl5os6lz8OIpennPAPjjFFvUqnPEYsw=
 			</data>
 		</dict>
 		<key>dist/devhelp/index.html</key>
@@ -3551,7 +3551,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iAXPUdVbFMiyy8K0WXED7qrR+EP3URhnBnWCLmUeCVk=
+			Zbd1wBU9ing7VIpKAWEKTLwUVDtc2uxDWaUUr5izkTo=
 			</data>
 		</dict>
 		<key>dist/scene-action-scene/index.html</key>
@@ -3572,7 +3572,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cDCE2Ve+USJE6gPI39VXsL4b8TB19rEsjLgY6gJJZv8=
+			2x2I+LYtsx9O9iQYdFhZK3dlBwJYm/ZaRqzVUoiNNdM=
 			</data>
 		</dict>
 		<key>dist/scene-limit-time/index.html</key>
@@ -3593,7 +3593,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cGdpvDjyApi84S5UJ0V8RGi03ScAiORvlOvanu9494U=
+			60C6acq/YVuRw9bJYVlOy+nhEqAexOmN3a/gDKngwps=
 			</data>
 		</dict>
 		<key>dist/scene-trigger-dev/index.html</key>
