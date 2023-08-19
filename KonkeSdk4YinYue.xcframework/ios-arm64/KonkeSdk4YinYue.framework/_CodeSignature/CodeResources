@@ -636,6 +636,10 @@
 		<data>
 		02iV4ypFO0uoAmRs7V74f3n57Wo=
 		</data>
+		<key>dist/assets/index-11fbace8.css</key>
+		<data>
+		0gVPVhwcF51/ZeAR67QhtDtpAuY=
+		</data>
 		<key>dist/assets/index-1e705218.js</key>
 		<data>
 		AXHRlieOnUv9I/N02k9jWHpmQec=
@@ -940,10 +944,6 @@
 		<data>
 		g+UY1byf9SbGAa6RLHJIvncH6fQ=
 		</data>
-		<key>dist/assets/index-f8a23605.css</key>
-		<data>
-		gUG3Apxb8VClNP/s+uPN03SoIMo=
-		</data>
 		<key>dist/assets/index-fb04ff69.js</key>
 		<data>
 		WwQm9hrFcgUri5Z6rTvT2Py0HMM=
@@ -1060,9 +1060,9 @@
 		<data>
 		oRcSH+ym9uvwqkVRtFd3Q/KR5F0=
 		</data>
-		<key>dist/assets/scenelist-360e9e6b.js</key>
+		<key>dist/assets/scenelist-3c11db6e.js</key>
 		<data>
-		msx8OPEybv4mo7EJY7YTuhWpqAc=
+		LJZFLirMk+aq0EW+xLPv7XuZBz4=
 		</data>
 		<key>dist/assets/smarthome-b8ec20ab.js</key>
 		<data>
@@ -1298,7 +1298,7 @@
 		</data>
 		<key>dist/scenelist/index.html</key>
 		<data>
-		a8SPUdY6jzttlIiSxT/WkxNXYfM=
+		vUsMxcxodAwy8DpTiOPv/JQF3n0=
 		</data>
 		<key>dist/smarthome/index.html</key>
 		<data>
@@ -2418,6 +2418,13 @@
 			CrTibUznl6/qmwQ8OxGS2a6r45gm6W+TXQWjyCvfUA0=
 			</data>
 		</dict>
+		<key>dist/assets/index-11fbace8.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Efus6KNPdbytex6iC/lRnIPOEBU9T535lwKxzy2j8CY=
+			</data>
+		</dict>
 		<key>dist/assets/index-1e705218.js</key>
 		<dict>
 			<key>hash2</key>
@@ -2950,13 +2957,6 @@
 			99Z6DAMnXVGKmwPr36WCblU1U2RQq+jqa0zUJ+a//XY=
 			</data>
 		</dict>
-		<key>dist/assets/index-f8a23605.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+KI2BSJUKGRuA8uyL1ChcHt2afGUgvDGJ64b1ZznHs0=
-			</data>
-		</dict>
 		<key>dist/assets/index-fb04ff69.js</key>
 		<dict>
 			<key>hash2</key>
@@ -3160,11 +3160,11 @@
 			ZIXqmBzzMjw11qr2Bz2nLQfzGVmPAfXXGP+IUcWK8UU=
 			</data>
 		</dict>
-		<key>dist/assets/scenelist-360e9e6b.js</key>
+		<key>dist/assets/scenelist-3c11db6e.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wdcPQ3t2nC9cXudkoJr9kj0rt5Hqg9u01uEfolhg9Uc=
+			CqB/CXUv5WkuzRBJOsSeMM+MiIElBjq7H4xq1c0r4ck=
 			</data>
 		</dict>
 		<key>dist/assets/smarthome-b8ec20ab.js</key>
@@ -3577,7 +3577,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R+I+nAQMwtmzqnxG77kTfRmeymQVoDv2WQZONzoB95Q=
+			uBb0qKA8TnMdELIVNoeHciC9bzOXSWGQ2RGqqQd/jgw=
 			</data>
 		</dict>
 		<key>dist/smarthome/index.html</key>
