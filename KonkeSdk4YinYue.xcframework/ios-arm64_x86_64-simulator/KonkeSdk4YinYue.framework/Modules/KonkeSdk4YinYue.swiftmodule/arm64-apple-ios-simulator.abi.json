@@ -176,6 +176,13 @@
       },
       {
         "kind": "Import",
+        "name": "Starscream",
+        "printedName": "Starscream",
+        "declKind": "Import",
+        "moduleName": "KonkeSdk4YinYue"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -4018,9 +4025,303 @@
     {
       "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 229,
+      "offset": 221,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 367,
+      "length": 27,
+      "value": "\"[KYWebSocket] >>> \""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 393,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 485,
+      "length": 15,
+      "value": "\"reconnected()\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 595,
+      "length": 60,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 622,
+      "length": 1,
+      "value": "\"\/listener?authorization=\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 654,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "IntegerLiteral",
+      "offset": 753,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1286,
+      "length": 45,
+      "value": "\"disconnected: \""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1330,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1459,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1549,
+      "length": 11,
+      "value": "\"destory()\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1656,
+      "length": 25,
+      "value": "\"handleRecvText: \""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1680,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1868,
+      "length": 13,
+      "value": "\"messageType\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 1925,
+      "length": 6,
+      "value": "\"name\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2010,
+      "length": 14,
+      "value": "\"DeviceReport\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2069,
+      "length": 8,
+      "value": "\"Joined\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2117,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2184,
+      "length": 12,
+      "value": "\"userDevice\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2474,
+      "length": 8,
+      "value": "\"Joined\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2532,
+      "length": 16,
+      "value": "\"network-zigbee\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2651,
+      "length": 8,
+      "value": "\"Normal\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 2699,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 3022,
+      "length": 10,
+      "value": "\"identify\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 3049,
+      "length": 17,
+      "value": "\"learnCodeNotify\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 3101,
+      "length": 17,
+      "value": "\"learnCodeNotify\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 3176,
+      "length": 13,
+      "value": "\"deviceEvent\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 3656,
+      "length": 22,
+      "value": "\"didReceive: \""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 3677,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3767,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 3790,
+      "length": 36,
+      "value": "\"websocket is connected: \""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 3825,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3904,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 3928,
+      "length": 57,
+      "value": "\"websocket is disconnected: \""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 3965,
+      "length": 4,
+      "value": "\" with code: \""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 3984,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 4104,
+      "length": 30,
+      "value": "\"Received data: \""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 4133,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4383,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4447,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 4469,
+      "length": 37,
+      "value": "\"error: \""
+    },
+    {
+      "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebSocket.swift",
+      "kind": "StringLiteral",
+      "offset": 4505,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/waynewu\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSBs\/ViewStackJSB.swift",

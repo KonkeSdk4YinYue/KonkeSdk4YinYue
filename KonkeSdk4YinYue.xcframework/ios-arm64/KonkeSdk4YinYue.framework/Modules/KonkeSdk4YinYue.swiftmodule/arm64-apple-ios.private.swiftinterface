@@ -6,6 +6,7 @@ import AVFoundation
 import Foundation
 @_exported import KonkeSdk4YinYue
 import PhotosUI
+import Starscream
 import Swift
 import UIKit
 import WebKit
