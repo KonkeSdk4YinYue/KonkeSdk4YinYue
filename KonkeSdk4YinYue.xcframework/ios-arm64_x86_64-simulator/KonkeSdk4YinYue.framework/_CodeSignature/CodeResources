@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		I2sjzRofcNRpmT2nprWAIKErZ5s=
+		ydo0zrBPAAXHsRNNjB4GASYku1I=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tdQnh9xeb6j3UOw60jYvsslFJpg=
+		EIEVRTKanbYkCVpJjU3zdkXrVGQ=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		I2sjzRofcNRpmT2nprWAIKErZ5s=
+		ydo0zrBPAAXHsRNNjB4GASYku1I=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MId25LLfOxgwYZgjsYMj1lWLxpY=
+		X8UHzTV/Zen76+4B2M8eEIlevzk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -152,9 +152,9 @@
 		<data>
 		XEbF8X1l9uUouCrwfWVZS02Faq8=
 		</data>
-		<key>dist/assets/dev-infrared-tv-0302fa00.js</key>
+		<key>dist/assets/dev-infrared-tv-f7b58309.js</key>
 		<data>
-		u57HSl54UBCuujnsjirNS8ER3x4=
+		0A1cy0ZfCZERuKBTDo9MDJge4Xk=
 		</data>
 		<key>dist/assets/dev-infrared-tv-learn-6420e92d.js</key>
 		<data>
@@ -176,9 +176,9 @@
 		<data>
 		jC1HWzN91Pv2emYpIYZDStWlZO8=
 		</data>
-		<key>dist/assets/devaddlist-1462c246.js</key>
+		<key>dist/assets/devaddlist-99b1f39a.js</key>
 		<data>
-		R7RsOGbe/aA9UnveNTJb2/a0dQU=
+		lr+oSyn9lOIVbKVgUORIbztuUv4=
 		</data>
 		<key>dist/assets/devedit-571b7329.js</key>
 		<data>
@@ -696,10 +696,6 @@
 		<data>
 		QHN71SbYN7VpRisu6dLN5XCcShU=
 		</data>
-		<key>dist/assets/index-32471326.css</key>
-		<data>
-		OmKq3eq9LusjiOSaE1hhi/X+zdI=
-		</data>
 		<key>dist/assets/index-33c47ae9.js</key>
 		<data>
 		hzFc3WaBm5onHMiXBQeJXVUqfO8=
@@ -828,6 +824,14 @@
 		<data>
 		x5zo/L7W/4ipYRloIFbKb+gutBE=
 		</data>
+		<key>dist/assets/index-7d2e3d57.css</key>
+		<data>
+		FGBrjRSPn+BKnXj32NhK8FZkxU0=
+		</data>
+		<key>dist/assets/index-8275bb8f.css</key>
+		<data>
+		OTmJLXzhVPggpF9+atmpU0TALyw=
+		</data>
 		<key>dist/assets/index-87cfc506.css</key>
 		<data>
 		YjX5yKMf4Nj/HNcKNfwafBodljs=
@@ -843,10 +847,6 @@
 		<key>dist/assets/index-8ddeb0e0.css</key>
 		<data>
 		wgggWl2PxTOBr2vWBjg+vuNPkXA=
-		</data>
-		<key>dist/assets/index-8f024c16.css</key>
-		<data>
-		K+nHE4BFrfTUka5thI/aJyyzO90=
 		</data>
 		<key>dist/assets/index-9880e2ad.css</key>
 		<data>
@@ -880,9 +880,9 @@
 		<data>
 		8PSFKMhq5+x5xZBw9XnCYtv0kxc=
 		</data>
-		<key>dist/assets/index-ba222f70.css</key>
+		<key>dist/assets/index-b7c66a0b.css</key>
 		<data>
-		XFaF7pR2CGHAZ/akREVgA/GQHb8=
+		4Ox0w9iduGOCKGImQ5UDe9kBPwQ=
 		</data>
 		<key>dist/assets/index-bf3f378e.js</key>
 		<data>
@@ -1012,9 +1012,9 @@
 		<data>
 		8by92GNZ5Z9JISzcgE0yMWDAW1c=
 		</data>
-		<key>dist/assets/roomedit-71686c9e.js</key>
+		<key>dist/assets/roomedit-e58bc29d.js</key>
 		<data>
-		2mUWVHONKOBBQNE1W/Erunb0YfE=
+		WM5LIbBrxfSZbUXMrleEGOT90mQ=
 		</data>
 		<key>dist/assets/roomlist-00a20ad4.js</key>
 		<data>
@@ -1190,7 +1190,7 @@
 		</data>
 		<key>dist/dev-infrared-tv/index.html</key>
 		<data>
-		/DuSk9GVzO7tldpUykBgHVRq2vs=
+		BWE2jECcn8A9KRMGELjtODeBb5w=
 		</data>
 		<key>dist/dev-infrared-type/index.html</key>
 		<data>
@@ -1202,7 +1202,7 @@
 		</data>
 		<key>dist/devaddlist/index.html</key>
 		<data>
-		yUWOkgAN59+9ratSMtV4wxUOKmQ=
+		5cUFLAn4vQjdGcyVmSeqgbRN1bY=
 		</data>
 		<key>dist/devedit/index.html</key>
 		<data>
@@ -1270,7 +1270,7 @@
 		</data>
 		<key>dist/roomedit/index.html</key>
 		<data>
-		Gun03RypRzOfTXjRlyT2WoBav0w=
+		0ORgwZBmykckRHAcaLDYJSlFXpI=
 		</data>
 		<key>dist/roomlist/index.html</key>
 		<data>
@@ -1364,7 +1364,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SVuOCfVvtWvEBDfBMm4pjIc0cLAYUvF//WNczAFV0l8=
+			VZYq7gZ9+eKBiskKyxkxr8TabFaGSawDCYbB3FttUlo=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1392,14 +1392,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9dMH+nkSwxzYrDRjeWhPhZdpT8wv/z3wVcU55mukQLU=
+			tEZdX8oh0+mUYtUy39tp1RBq5CVIkPdE+HuVY20LcKY=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SVuOCfVvtWvEBDfBMm4pjIc0cLAYUvF//WNczAFV0l8=
+			VZYq7gZ9+eKBiskKyxkxr8TabFaGSawDCYbB3FttUlo=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1427,7 +1427,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z1cq5qjh8KMObuL7agd95P8NeiUpyZ5+CGEKYg9LW7w=
+			Bz4JNhM9/bsTzqfwWkmyy9Yjb7DaQprS41fp1c7x60M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1591,11 +1591,11 @@
 			5EtW8URCzJLxtbS3igYS/GbRgXv5corZKLXq4hUUTyQ=
 			</data>
 		</dict>
-		<key>dist/assets/dev-infrared-tv-0302fa00.js</key>
+		<key>dist/assets/dev-infrared-tv-f7b58309.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2UmStcGOTWkQbgqpqDxh7HO9A1DM4xE7lSKzNyEg7AY=
+			4Mns/Z/FRWFuQ4JDgEmLT4JZhWSom3u5NmotnYCvFug=
 			</data>
 		</dict>
 		<key>dist/assets/dev-infrared-tv-learn-6420e92d.js</key>
@@ -1633,11 +1633,11 @@
 			hoyxnG2oy+kplHaJBReE+fDUtL2EJ5VXdyZ5zC+j2rk=
 			</data>
 		</dict>
-		<key>dist/assets/devaddlist-1462c246.js</key>
+		<key>dist/assets/devaddlist-99b1f39a.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			edEx8h8KPkUTbbbGjvR6ggPIYippbpKIkNruH3w5LOU=
+			iT5J41Z4vrWrqOojOclT2IP0afEWvLrJ7UrPYH6CCsg=
 			</data>
 		</dict>
 		<key>dist/assets/devedit-571b7329.js</key>
@@ -2543,13 +2543,6 @@
 			lPbq9wxM6Nf8ghFZi0JY6dTO9Yt6fxR1Uf//9uAjZCk=
 			</data>
 		</dict>
-		<key>dist/assets/index-32471326.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MkcTJn36ovk7h3bToREmPI3QKn9wbVI5+h43CbQa24M=
-			</data>
-		</dict>
 		<key>dist/assets/index-33c47ae9.js</key>
 		<dict>
 			<key>hash2</key>
@@ -2774,6 +2767,20 @@
 			fPBvytFeuzGyI55tQqBzmww2hxSGIbNIyIhQ71zN6yQ=
 			</data>
 		</dict>
+		<key>dist/assets/index-7d2e3d57.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fS49VztYHHgdQgOzmurFqaXaFnIfKwnMcLdS7AsRwF8=
+			</data>
+		</dict>
+		<key>dist/assets/index-8275bb8f.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gnW7j1kh1Lx2DObB9EdLonT/XRTJX1QgXB3EoXEs3sc=
+			</data>
+		</dict>
 		<key>dist/assets/index-87cfc506.css</key>
 		<dict>
 			<key>hash2</key>
@@ -2800,13 +2807,6 @@
 			<key>hash2</key>
 			<data>
 			jd6w4CU7cRn3u+Jx8oI2NATor6LOVxR/V6RVSlRu78Y=
-			</data>
-		</dict>
-		<key>dist/assets/index-8f024c16.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jwJMFhGW3ZcZpbE7uQFHe9CEsRaGRT/xtG9EZrgKrPY=
 			</data>
 		</dict>
 		<key>dist/assets/index-9880e2ad.css</key>
@@ -2865,11 +2865,11 @@
 			tzJ4W65fvzo/sPNg3YNe9msOR5LhlepY7aCeya9Tk1g=
 			</data>
 		</dict>
-		<key>dist/assets/index-ba222f70.css</key>
+		<key>dist/assets/index-b7c66a0b.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uiIvcOY+So2Q7q+s0houuOmQGCnBosKRhxSrPwFb6+k=
+			t8ZqC34UucMiZ8OcjljCp7GvIwtxzWnTpkubqKDxyvQ=
 			</data>
 		</dict>
 		<key>dist/assets/index-bf3f378e.js</key>
@@ -3096,11 +3096,11 @@
 			uJcM4zs7vTO8HbZsFeWmf5fhbMABkFEcueTzU+N2uis=
 			</data>
 		</dict>
-		<key>dist/assets/roomedit-71686c9e.js</key>
+		<key>dist/assets/roomedit-e58bc29d.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			acfxQpKJZS6Il5xLsbfO3bdfOLbjsNYUGbklUg9fLY8=
+			X899eVYYFwIJOAeb8rQQg0poqt4bO/TerWqxmHQJyiY=
 			</data>
 		</dict>
 		<key>dist/assets/roomlist-00a20ad4.js</key>
@@ -3408,7 +3408,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1JVYiBn8BmSd5b4M9q2/XZ983ezubrdivhAIK7ih/7I=
+			OY2Q354X1dQjvMAGB7w8TInWkgRBSr3pRAl5r+8u9uY=
 			</data>
 		</dict>
 		<key>dist/dev-infrared-type/index.html</key>
@@ -3429,7 +3429,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Utcdqj+valBD0uqG1GSfBX+9D9vdaKM7YP7GYauBZKY=
+			c+hIM9LFfGwGe5Ie6ECryWz+yGNC0UDpVJGR/6rODhw=
 			</data>
 		</dict>
 		<key>dist/devedit/index.html</key>
@@ -3548,7 +3548,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+WIus56nVZrdiE3Puft144EEpcbNeNM1QUfYWA+xcC8=
+			kmDUkev+f4vIeA0xOQHpuQTUH1GwhS3tr9OqcdNtC8g=
 			</data>
 		</dict>
 		<key>dist/roomlist/index.html</key>
