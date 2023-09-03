@@ -6,17 +6,23 @@ import AVFoundation
 import Foundation
 @_exported import KonkeSdk4YinYue
 import PhotosUI
-import Starscream
 import Swift
 import UIKit
 import WebKit
 import _Concurrency
 import _StringProcessing
 @_inheritsConvenienceInitializers @objc public class KonkeSdk4YinYueRunner : ObjectiveC.NSObject {
+  public static var socketManager: (any KonkeSdk4YinYue.KYWebSocketManager)? {
+    get
+    set
+  }
   @objc public static func prepare()
   @objc public static func openSdkHome(by viewController: UIKit.UIViewController)
   @objc override dynamic public init()
   @objc deinit
+}
+extension KonkeSdk4YinYue.KonkeSdk4YinYueRunner : KonkeSdk4YinYue.KYWebSocketManagerDelegate {
+  @objc dynamic public func onReceived(_ data: Swift.String)
 }
 @_hasMissingDesignatedInitializers public class ViewStackJSB {
   @objc deinit
@@ -199,6 +205,16 @@ extension KonkeSdk4YinYue.AnyEncodable : Swift.Hashable {
   public var hashValue: Swift.Int {
     get
   }
+}
+@objc public protocol KYWebSocketManagerDelegate : ObjectiveC.NSObjectProtocol {
+  @objc func onReceived(_ data: Swift.String)
+}
+@objc public protocol KYWebSocketManager : ObjectiveC.NSObjectProtocol {
+  @objc var delegate: (any KonkeSdk4YinYue.KYWebSocketManagerDelegate)? { get set }
+  @objc var token: Swift.String { get set }
+  @objc var isConnected: Swift.Bool { get set }
+  @objc func reconnect()
+  @objc func disconnect()
 }
 public protocol H5ContentViewStack : ObjectiveC.NSObjectProtocol {
   func navigateTo(_ pageName: Swift.String, params: [Swift.String : KonkeSdk4YinYue.AnyCodable]?, animated: Swift.Bool)
