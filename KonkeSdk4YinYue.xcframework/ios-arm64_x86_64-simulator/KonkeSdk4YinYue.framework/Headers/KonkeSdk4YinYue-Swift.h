@@ -325,12 +325,34 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) H5Manager * 
 - (void)setupDebug:(NSString * _Nonnull)host;
 @end
 
+@protocol KYWebSocketManagerDelegate;
+
+SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue18KYWebSocketManager_")
+@protocol KYWebSocketManager <NSObject>
+@property (nonatomic, strong) id <KYWebSocketManagerDelegate> _Nullable delegate;
+@property (nonatomic, copy) NSString * _Nonnull token;
+@property (nonatomic) BOOL isConnected;
+- (void)reconnect;
+- (void)disconnect;
+@end
+
+
+SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue26KYWebSocketManagerDelegate_")
+@protocol KYWebSocketManagerDelegate <NSObject>
+- (void)onReceived:(NSString * _Nonnull)data;
+@end
+
 
 SWIFT_CLASS("_TtC15KonkeSdk4YinYue21KonkeSdk4YinYueRunner")
 @interface KonkeSdk4YinYueRunner : NSObject
 + (void)prepare;
 + (void)openSdkHomeBy:(UIViewController * _Nonnull)viewController;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+@interface KonkeSdk4YinYueRunner (SWIFT_EXTENSION(KonkeSdk4YinYue)) <KYWebSocketManagerDelegate>
+- (void)onReceived:(NSString * _Nonnull)data;
 @end
 
 
@@ -673,12 +695,34 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) H5Manager * 
 - (void)setupDebug:(NSString * _Nonnull)host;
 @end
 
+@protocol KYWebSocketManagerDelegate;
+
+SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue18KYWebSocketManager_")
+@protocol KYWebSocketManager <NSObject>
+@property (nonatomic, strong) id <KYWebSocketManagerDelegate> _Nullable delegate;
+@property (nonatomic, copy) NSString * _Nonnull token;
+@property (nonatomic) BOOL isConnected;
+- (void)reconnect;
+- (void)disconnect;
+@end
+
+
+SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue26KYWebSocketManagerDelegate_")
+@protocol KYWebSocketManagerDelegate <NSObject>
+- (void)onReceived:(NSString * _Nonnull)data;
+@end
+
 
 SWIFT_CLASS("_TtC15KonkeSdk4YinYue21KonkeSdk4YinYueRunner")
 @interface KonkeSdk4YinYueRunner : NSObject
 + (void)prepare;
 + (void)openSdkHomeBy:(UIViewController * _Nonnull)viewController;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+@interface KonkeSdk4YinYueRunner (SWIFT_EXTENSION(KonkeSdk4YinYue)) <KYWebSocketManagerDelegate>
+- (void)onReceived:(NSString * _Nonnull)data;
 @end
 
 
