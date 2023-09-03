@@ -345,6 +345,9 @@ SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue26KYWebSocketManagerDelegate_")
 
 SWIFT_CLASS("_TtC15KonkeSdk4YinYue21KonkeSdk4YinYueRunner")
 @interface KonkeSdk4YinYueRunner : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) id <KYWebSocketManager> _Nullable socketManager;)
++ (id <KYWebSocketManager> _Nullable)socketManager SWIFT_WARN_UNUSED_RESULT;
++ (void)setSocketManager:(id <KYWebSocketManager> _Nullable)value;
 + (void)prepare;
 + (void)openSdkHomeBy:(UIViewController * _Nonnull)viewController;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -715,6 +718,9 @@ SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue26KYWebSocketManagerDelegate_")
 
 SWIFT_CLASS("_TtC15KonkeSdk4YinYue21KonkeSdk4YinYueRunner")
 @interface KonkeSdk4YinYueRunner : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) id <KYWebSocketManager> _Nullable socketManager;)
++ (id <KYWebSocketManager> _Nullable)socketManager SWIFT_WARN_UNUSED_RESULT;
++ (void)setSocketManager:(id <KYWebSocketManager> _Nullable)value;
 + (void)prepare;
 + (void)openSdkHomeBy:(UIViewController * _Nonnull)viewController;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;

@@ -12,9 +12,9 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 @_inheritsConvenienceInitializers @objc public class KonkeSdk4YinYueRunner : ObjectiveC.NSObject {
-  public static var socketManager: (any KonkeSdk4YinYue.KYWebSocketManager)? {
-    get
-    set
+  @objc public static var socketManager: (any KonkeSdk4YinYue.KYWebSocketManager)? {
+    @objc get
+    @objc set
   }
   @objc public static func prepare()
   @objc public static func openSdkHome(by viewController: UIKit.UIViewController)
