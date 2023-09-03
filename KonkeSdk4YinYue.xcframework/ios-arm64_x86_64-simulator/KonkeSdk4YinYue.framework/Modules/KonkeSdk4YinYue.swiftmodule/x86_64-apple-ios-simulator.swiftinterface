@@ -211,7 +211,7 @@ extension KonkeSdk4YinYue.AnyEncodable : Swift.Hashable {
 }
 @objc public protocol KYWebSocketManager : ObjectiveC.NSObjectProtocol {
   @objc var delegate: (any KonkeSdk4YinYue.KYWebSocketManagerDelegate)? { get set }
-  @objc var token: Swift.String { get set }
+  @objc var token: Swift.String? { get set }
   @objc var isConnected: Swift.Bool { get set }
   @objc func reconnect()
   @objc func disconnect()

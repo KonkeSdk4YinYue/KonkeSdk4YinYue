@@ -330,7 +330,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) H5Manager * 
 SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue18KYWebSocketManager_")
 @protocol KYWebSocketManager <NSObject>
 @property (nonatomic, strong) id <KYWebSocketManagerDelegate> _Nullable delegate;
-@property (nonatomic, copy) NSString * _Nonnull token;
+@property (nonatomic, copy) NSString * _Nullable token;
 @property (nonatomic) BOOL isConnected;
 - (void)reconnect;
 - (void)disconnect;
@@ -700,7 +700,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) H5Manager * 
 SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue18KYWebSocketManager_")
 @protocol KYWebSocketManager <NSObject>
 @property (nonatomic, strong) id <KYWebSocketManagerDelegate> _Nullable delegate;
-@property (nonatomic, copy) NSString * _Nonnull token;
+@property (nonatomic, copy) NSString * _Nullable token;
 @property (nonatomic) BOOL isConnected;
 - (void)reconnect;
 - (void)disconnect;
