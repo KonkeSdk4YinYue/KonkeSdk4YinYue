@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/KonkeSdk4YinYue-Swift.h</key>
 		<data>
-		aAElRO2Ftw1oVVBSbmn5qN8IvZ4=
+		q3AspYdVTpN0CaqemvSeuILdwo0=
 		</data>
 		<key>Headers/KonkeSdk4YinYue.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		lUCRqGmJmD2DnSoNHYLTW7QaogY=
+		pzhk13upint/4byjMOEQ4DEOqLs=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		EqIQCsE5s5oe36TdSmxcyW4I/OE=
+		7zYAfeCYhES0RNbtLhIRdfEMBpU=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		EqIQCsE5s5oe36TdSmxcyW4I/OE=
+		7zYAfeCYhES0RNbtLhIRdfEMBpU=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		xRVKeA30/pUmJAS3w2YFjkmRURo=
+		Trq02kIA22E0uBGkEn7djXeHfxg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1330,7 +1330,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sgl2BF0vsZzLcJWcI90zGS0M2BWnOYHH7mhbHmzmAp4=
+			miQB4FZDRD/DzAqoIkuhKL142g8GkGQlr6ej/WHFXrM=
 			</data>
 		</dict>
 		<key>Headers/KonkeSdk4YinYue.h</key>
@@ -1344,14 +1344,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FHAi1j7PDFL00HjYMgJP0WmuDz8w98tuvdUc3KAUBTk=
+			DAtja3wrI4Yia87n3noZ6Zbe48u0EipaPCTMlFx4GfM=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S5cybT20tNLJ6fjyr8mm6K2uuwLNHYCAkmFr8bXnaUg=
+			oPezIzU5NPE+6niJPLGiSG5ktBORw1gA1AQdcWI2zUg=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -1365,14 +1365,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S5cybT20tNLJ6fjyr8mm6K2uuwLNHYCAkmFr8bXnaUg=
+			oPezIzU5NPE+6niJPLGiSG5ktBORw1gA1AQdcWI2zUg=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HeThRFKjsWONCcjzDi1piNKfcJm2UOhIDwIA+G6veqM=
+			ARUyqL8AW3i9P+mpDV2CcuSKELxYSPqifXWah9wpSkE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
