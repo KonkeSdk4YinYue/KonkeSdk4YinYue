@@ -1,7 +1,7 @@
 framework module KonkeSdk4YinYue {
   umbrella header "KonkeSdk4YinYue.h"
-
   export *
+
   module * { export * }
 }
 
