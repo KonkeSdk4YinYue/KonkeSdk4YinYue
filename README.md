@@ -9,8 +9,21 @@
 ```groovy
 dependencies {
   implementation fileTree(dir: 'libs', include: ['*.aar'])
+  implementation 'androidx.appcompat:appcompat:1.0.0'
+  implementation 'com.google.android.material:material:1.0.0'
+  implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
+  implementation 'com.google.zxing:core:3.2.0'
+  implementation 'org.greenrobot:eventbus:3.1.1'
 }
 ```
+
+初始化 SDK
+```java
+KonkeCloudConfig config = KonkeCloudConfig.getInstance();
+config.setAppKey({{appKey}});
+config.setBaseURL({{baseURL}});
+```
+
 
 调用 SDK 入口，打开 SDK 主页面
 
