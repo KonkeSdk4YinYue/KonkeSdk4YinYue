@@ -1,29 +1,51 @@
 # KonkeSdk4YinYue
 
-[![CI Status](https://img.shields.io/travis/17878528/KonkeSdk4YinYue.svg?style=flat)](https://travis-ci.org/17878528/KonkeSdk4YinYue)
-[![Version](https://img.shields.io/cocoapods/v/KonkeSdk4YinYue.svg?style=flat)](https://cocoapods.org/pods/KonkeSdk4YinYue)
-[![License](https://img.shields.io/cocoapods/l/KonkeSdk4YinYue.svg?style=flat)](https://cocoapods.org/pods/KonkeSdk4YinYue)
-[![Platform](https://img.shields.io/cocoapods/p/KonkeSdk4YinYue.svg?style=flat)](https://cocoapods.org/pods/KonkeSdk4YinYue)
+## Android 接入
 
-## Example
+下载 [KonkeSdk4YinYue.aar](https://github.com/KonkeSdk4YinYue/KonkeSdk4YinYue/raw/main/KonkeSdk4YinYue.aar)
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+将 `KonkeSdk4YinYue.aar` 放至安卓项目的 `app/libs` 文件夹下，并在 `app/build.gradle` 文件中增加配置：
 
-## Requirements
-
-## Installation
-
-KonkeSdk4YinYue is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'KonkeSdk4YinYue'
+```groovy
+dependencies {
+  implementation fileTree(dir: 'libs', include: ['*.aar'])
+}
 ```
 
-## Author
+调用 SDK 入口，打开 SDK 主页面
 
-17878528, wuvcen@gmail.com
+```java
+startActivity(new Intent(this,KYRoomActivity.class))
+```
 
-## License
+## iOS 接入
 
-KonkeSdk4YinYue is available under the MIT license. See the LICENSE file for more info.
+在 `Podfile` 中添加依赖
+
+```ruby
+pod 'KonkeSdk4YinYue', :git => 'https://github.com/KonkeSdk4YinYue/KonkeSdk4YinYue.git'
+```
+
+打开终端，进入项目目录，安装依赖
+
+```shell
+pod install
+```
+初始化 SDK
+
+```swift
+// AppDelegate.swift
+func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+  KonkeSdk4YinYueRunner.cloudConfig.appKey = "{{appKey}}"
+  KonkeSdk4YinYueRunner.cloudConfig.baseURL = "https://kapp.ikonke.com"
+  KonkeSdk4YinYueRunner.prepare()
+  return true
+}
+```
+
+调用 SDK 入口，打开 SDK 主页面
+
+```swift
+// XXXViewController 中
+KonkeSdk4YinYueRunner.openSdkHome(by: self) // self 是 XXXViewController
+```
