@@ -52,5 +52,5 @@ KonkeSdk4YinYueRunner.openSdkHome(by: self) // self 是 XXXViewController
 
 ## SDK 更新
 
-- Android：重新下载最新 `KonkeSdk4YinYue.aar` 集成进项目
+- Android：重新下载最新 [KonkeSdk4YinYue.aar](https://github.com/KonkeSdk4YinYue/KonkeSdk4YinYue/raw/main/KonkeSdk4YinYue.aar) 集成进项目
 - iOS：运行终端命令 `pod update KonkeSdk4YinYue`
