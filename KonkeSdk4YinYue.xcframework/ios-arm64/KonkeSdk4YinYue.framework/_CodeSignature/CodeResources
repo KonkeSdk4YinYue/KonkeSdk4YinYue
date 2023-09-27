@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		qGSqn3XWS/ftczLlEWb7vpY2c1o=
+		mmLjxPLObjaKufQC0fKwu+c+0HI=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		SUIZi/6xVoxPXpZQaPMANdAg6bk=
+		BIj5j4jXias9Tcnfc4+ZiNbkQ7M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1344,7 +1344,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bT/iuGXh/hrn9kBRHqKeglCXwVcsoGwaD8m9/+3moBk=
+			oAWSR0FNfKl2/dLC2SQ+qkfZX5/vtL6T8ij4Gfgs6hg=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1372,7 +1372,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zIkgJ7saJCuSRMhSQ/IMIsVPIB0JgFNZGr60LMI32Hs=
+			rSzv3PRl32DQn9FlGwsoZquF3balFQEtaqzIPa62FlA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
