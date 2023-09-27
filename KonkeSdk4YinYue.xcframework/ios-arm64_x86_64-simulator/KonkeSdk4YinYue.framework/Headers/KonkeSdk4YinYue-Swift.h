@@ -360,6 +360,12 @@ SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue26KYWebSocketManagerDelegate_")
 @end
 
 
+SWIFT_CLASS("_TtC15KonkeSdk4YinYue16KonkeCloudConfig")
+@interface KonkeCloudConfig : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC15KonkeSdk4YinYue21KonkeSdk4YinYueRunner")
 @interface KonkeSdk4YinYueRunner : NSObject
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) id <KYWebSocketManager> _Nullable socketManager;)
@@ -749,6 +755,12 @@ SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue18KYWebSocketManager_")
 SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue26KYWebSocketManagerDelegate_")
 @protocol KYWebSocketManagerDelegate <NSObject>
 - (void)onReceived:(NSString * _Nonnull)data;
+@end
+
+
+SWIFT_CLASS("_TtC15KonkeSdk4YinYue16KonkeCloudConfig")
+@interface KonkeCloudConfig : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
