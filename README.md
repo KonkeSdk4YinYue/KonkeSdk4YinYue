@@ -2,7 +2,7 @@
 
 ## Android 接入
 
-下载 [KonkeSdk4YinYue.aar](https://github.com/KonkeSdk4YinYue/KonkeSdk4YinYue/raw/main/KonkeSdk4YinYue.aar)
+下载最新 [KonkeSdk4YinYue.aar](https://github.com/KonkeSdk4YinYue/KonkeSdk4YinYue/raw/main/KonkeSdk4YinYue.aar)
 
 将 `KonkeSdk4YinYue.aar` 放至安卓项目的 `app/libs` 文件夹下，并在 `app/build.gradle` 文件中增加配置：
 
@@ -15,10 +15,7 @@ dependencies {
 调用 SDK 入口，打开 SDK 主页面
 
 ```java
-KonkeCloudConfig config = KonkeCloudConfig.getInstance();
-config.setAppKey({{appKey}});
-config.setBaseURL({{baseURL}});
-startActivity(new Intent(this,KYRoomActivity.class))
+startActivity(new Intent(this, KYRoomActivity.class))
 ```
 
 ## iOS 接入
@@ -52,3 +49,8 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
 // XXXViewController 中
 KonkeSdk4YinYueRunner.openSdkHome(by: self) // self 是 XXXViewController
 ```
+
+## SDK 更新
+
+- Android：重新下载最新 `KonkeSdk4YinYue.aar` 集成进项目
+- iOS：运行终端命令 `pod update KonkeSdk4YinYue`
