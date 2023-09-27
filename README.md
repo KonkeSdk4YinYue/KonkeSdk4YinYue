@@ -37,6 +37,8 @@ startActivity(new Intent(this, KYRoomActivity.class))
 
 ```ruby
 pod 'KonkeSdk4YinYue', :git => 'https://github.com/KonkeSdk4YinYue/KonkeSdk4YinYue.git'
+# websocket
+pod 'KonkeSdk4YinYue_WebSocket', :git => 'https://github.com/KonkeSdk4YinYue/KonkeSdk4YinYue_WebSocket.git'
 ```
 
 打开终端，进入项目目录，安装依赖
@@ -48,9 +50,16 @@ pod install
 
 ```swift
 // AppDelegate.swift
+
+import KonkeSdk4YinYue
+import KonkeSdk4YinYue_WebSocket
+
+// ...
+
 func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
   KonkeSdk4YinYueRunner.cloudConfig.appKey = "{{appKey}}"
   KonkeSdk4YinYueRunner.cloudConfig.baseURL = "https://kapp.ikonke.com"
+  KonkeSdk4YinYueRunner.socketManager = WebSocketManager()
   KonkeSdk4YinYueRunner.prepare()
   return true
 }
