@@ -15,6 +15,9 @@ dependencies {
 调用 SDK 入口，打开 SDK 主页面
 
 ```java
+KonkeCloudConfig config = KonkeCloudConfig.getInstance();
+config.setAppKey({{appKey}});
+config.setBaseURL({{baseURL}});
 startActivity(new Intent(this,KYRoomActivity.class))
 ```
 
