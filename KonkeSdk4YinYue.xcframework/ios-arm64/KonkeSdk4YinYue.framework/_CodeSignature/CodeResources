@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		u3knibsTgPU39/N3Ub96YLQah3s=
+		a5pVYL6r6pnoeOb5JpmApyGvBCw=
 		</data>
 		<key>Headers/KonkeSdk4YinYue-Swift.h</key>
 		<data>
-		5VshjmMPBC7nQ2yn2JRBod+i9aI=
+		uoXhG585jnlo1peHEVU0bw8TIds=
 		</data>
 		<key>Headers/KonkeSdk4YinYue.h</key>
 		<data>
@@ -18,15 +18,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Nfv6Jbm7ko8S/z0I3GZTK+OJ0bQ=
+		8+xCvZytb+30Zw4MTf33xD8P09w=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ZT84ShPtNHFbEcBtoYnJUlm8yI4=
+		hbQxbOd4yhmttDeWOOrs5Z1D/XI=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		jki+UhlBbi9o2wFpZ4plpWAS5pA=
+		z6exkjvEoVDhZ3RuXgRsb6X3dHw=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		jki+UhlBbi9o2wFpZ4plpWAS5pA=
+		z6exkjvEoVDhZ3RuXgRsb6X3dHw=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		s3k0QwLr3dzK676egSJfGyJiYTY=
+		bFAgtYsEUTVDvNo9XZ8sFiN9Wps=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1323,14 +1323,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fYsgIep8jTBz3+Ls7DJl34wD9fiNTSsRSDuYhPvHU5M=
+			FEekaqlQ0RBwiAUYVQk7OE8vSOSiNkb/rQA1oGhcB74=
 			</data>
 		</dict>
 		<key>Headers/KonkeSdk4YinYue-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1CHPFaBZasVfGpJX9oogZMknt2f+gaO7IrikDxmOm+c=
+			2j8717ILkLg8luG8v16UvWFDQ+Eh6uxjbhMeVcbXSPA=
 			</data>
 		</dict>
 		<key>Headers/KonkeSdk4YinYue.h</key>
@@ -1344,14 +1344,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dxjeVjGjCB9N/L5K5M0PO48vyGXc2EjVmfSHt57Aq1o=
+			I9h5aw0myQ0Lcxj9Ohu8gb5ALsRdl/TLcezzsJZFdbs=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B4h4S4uYIGPcWqtkP8srSZUB5JDlecdcdVbLH0b0znc=
+			4Mv9QODC23XH0WGWQEdBowcvkovTrTZaAHqLLUE5J9I=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -1365,14 +1365,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B4h4S4uYIGPcWqtkP8srSZUB5JDlecdcdVbLH0b0znc=
+			4Mv9QODC23XH0WGWQEdBowcvkovTrTZaAHqLLUE5J9I=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6WrUQkz7JuwfAkx9Sv+g8vZXqMvXQf61Z2FcBcCZXAQ=
+			otGVfcB+Q8IdDOMMAkVPxZAacIAmaldzYVyIm+7nDOM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

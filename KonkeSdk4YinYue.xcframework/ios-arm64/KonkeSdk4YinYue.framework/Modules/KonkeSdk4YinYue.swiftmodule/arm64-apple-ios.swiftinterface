@@ -15,19 +15,19 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @_inheritsConvenienceInitializers @objc public class KonkeCloudConfig : ObjectiveC.NSObject, Swift.Codable {
-  public var appKey: Swift.String
-  public var regionId: Swift.String
-  public var language: Swift.String
-  public var countryCode: Swift.String
-  public var appVersion: Swift.String
-  public var baseURL: Swift.String
+  @objc public var appKey: Swift.String
+  @objc public var regionId: Swift.String
+  @objc public var language: Swift.String
+  @objc public var countryCode: Swift.String
+  @objc public var appVersion: Swift.String
+  @objc public var baseURL: Swift.String
   @objc override dynamic public init()
   @objc deinit
   public func encode(to encoder: any Swift.Encoder) throws
   required public init(from decoder: any Swift.Decoder) throws
 }
 @_inheritsConvenienceInitializers @objc public class KonkeSdk4YinYueRunner : ObjectiveC.NSObject {
-  public static let cloudConfig: KonkeSdk4YinYue.KonkeCloudConfig
+  @objc public static let cloudConfig: KonkeSdk4YinYue.KonkeCloudConfig
   @objc public static var socketManager: (any KonkeSdk4YinYue.KYWebSocketManager)? {
     @objc get
     @objc set

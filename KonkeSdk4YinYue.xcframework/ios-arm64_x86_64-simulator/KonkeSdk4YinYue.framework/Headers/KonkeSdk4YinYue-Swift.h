@@ -362,12 +362,20 @@ SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue26KYWebSocketManagerDelegate_")
 
 SWIFT_CLASS("_TtC15KonkeSdk4YinYue16KonkeCloudConfig")
 @interface KonkeCloudConfig : NSObject
+@property (nonatomic, copy) NSString * _Nonnull appKey;
+@property (nonatomic, copy) NSString * _Nonnull regionId;
+@property (nonatomic, copy) NSString * _Nonnull language;
+@property (nonatomic, copy) NSString * _Nonnull countryCode;
+@property (nonatomic, copy) NSString * _Nonnull appVersion;
+@property (nonatomic, copy) NSString * _Nonnull baseURL;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
 SWIFT_CLASS("_TtC15KonkeSdk4YinYue21KonkeSdk4YinYueRunner")
 @interface KonkeSdk4YinYueRunner : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) KonkeCloudConfig * _Nonnull cloudConfig;)
++ (KonkeCloudConfig * _Nonnull)cloudConfig SWIFT_WARN_UNUSED_RESULT;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) id <KYWebSocketManager> _Nullable socketManager;)
 + (id <KYWebSocketManager> _Nullable)socketManager SWIFT_WARN_UNUSED_RESULT;
 + (void)setSocketManager:(id <KYWebSocketManager> _Nullable)value;
@@ -760,12 +768,20 @@ SWIFT_PROTOCOL("_TtP15KonkeSdk4YinYue26KYWebSocketManagerDelegate_")
 
 SWIFT_CLASS("_TtC15KonkeSdk4YinYue16KonkeCloudConfig")
 @interface KonkeCloudConfig : NSObject
+@property (nonatomic, copy) NSString * _Nonnull appKey;
+@property (nonatomic, copy) NSString * _Nonnull regionId;
+@property (nonatomic, copy) NSString * _Nonnull language;
+@property (nonatomic, copy) NSString * _Nonnull countryCode;
+@property (nonatomic, copy) NSString * _Nonnull appVersion;
+@property (nonatomic, copy) NSString * _Nonnull baseURL;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
 SWIFT_CLASS("_TtC15KonkeSdk4YinYue21KonkeSdk4YinYueRunner")
 @interface KonkeSdk4YinYueRunner : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) KonkeCloudConfig * _Nonnull cloudConfig;)
++ (KonkeCloudConfig * _Nonnull)cloudConfig SWIFT_WARN_UNUSED_RESULT;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) id <KYWebSocketManager> _Nullable socketManager;)
 + (id <KYWebSocketManager> _Nullable)socketManager SWIFT_WARN_UNUSED_RESULT;
 + (void)setSocketManager:(id <KYWebSocketManager> _Nullable)value;
