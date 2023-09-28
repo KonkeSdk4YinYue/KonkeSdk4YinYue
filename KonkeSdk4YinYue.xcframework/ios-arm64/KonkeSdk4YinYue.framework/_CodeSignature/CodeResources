@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		a5pVYL6r6pnoeOb5JpmApyGvBCw=
+		u3knibsTgPU39/N3Ub96YLQah3s=
 		</data>
 		<key>Headers/KonkeSdk4YinYue-Swift.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8+xCvZytb+30Zw4MTf33xD8P09w=
+		Nfv6Jbm7ko8S/z0I3GZTK+OJ0bQ=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		hbQxbOd4yhmttDeWOOrs5Z1D/XI=
+		xugxVT2OUtzKqyO/fjs27ePdR/M=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		bFAgtYsEUTVDvNo9XZ8sFiN9Wps=
+		T81exwqMV4Mk1lpzbnW1TklvXXk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1323,7 +1323,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FEekaqlQ0RBwiAUYVQk7OE8vSOSiNkb/rQA1oGhcB74=
+			fYsgIep8jTBz3+Ls7DJl34wD9fiNTSsRSDuYhPvHU5M=
 			</data>
 		</dict>
 		<key>Headers/KonkeSdk4YinYue-Swift.h</key>
@@ -1344,7 +1344,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I9h5aw0myQ0Lcxj9Ohu8gb5ALsRdl/TLcezzsJZFdbs=
+			6/G7t1+s9IGnK5CRgY7z6BNnf/SrI+AH8OXWOr3rFqE=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1372,7 +1372,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			otGVfcB+Q8IdDOMMAkVPxZAacIAmaldzYVyIm+7nDOM=
+			40LVAXXJ7/j+ZxvAF8pZtpPNRPd/+el8+6gkvwied5A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
