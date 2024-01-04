@@ -14,6 +14,7 @@ dependencies {
   implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
   implementation 'com.google.zxing:core:3.2.0'
   implementation 'org.greenrobot:eventbus:3.1.1'
+  implementation 'androidx.webkit:webkit:1.4.0'
 }
 ```
 
@@ -22,6 +23,7 @@ dependencies {
 KonkeCloudConfig config = KonkeCloudConfig.getInstance();
 config.setAppKey({{appKey}});
 config.setBaseURL({{baseURL}});
+config.setBaseWsURL({{baseWsURL}});
 ```
 
 
