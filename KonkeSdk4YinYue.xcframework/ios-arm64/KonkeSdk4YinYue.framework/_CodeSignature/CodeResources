@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		WL1A1HVbAGI+z7kJPHcaUpiV1HM=
+		vFg7YhnPCCdbfOSaZLj125Z1z4I=
 		</data>
 		<key>Headers/KonkeSdk4YinYue-Swift.h</key>
 		<data>
-		VcprWCd92geoq9ccZDKedqQss2s=
+		8g0iW38JGPYUp1kACh7ENbPFhss=
 		</data>
 		<key>Headers/KonkeSdk4YinYue.h</key>
 		<data>
@@ -18,27 +18,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		eRwVxUhcPRO7FQzH0ujq7qYZkfI=
+		jrjOcmRPOf+9xfwB6IEnjFT5oi4=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		yRsExzb/wgWujtOP6pw/3+N+384=
+		VYrb0r/deONLAMWqnzXs+Bgjnvs=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		nYDUndyqs7q84nD+6uuT0ylrWIU=
+		2PRE7kfM17rWI8gAenF6d371xHk=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		GtPzOi0m4sC+eOuaA4/OS3GC1eU=
+		HIKnRZ0ZvETpHtCFCIfF++O2DEo=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		nYDUndyqs7q84nD+6uuT0ylrWIU=
+		2PRE7kfM17rWI8gAenF6d371xHk=
 		</data>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		n/QhLYZxy+TQhRCVkVhBjVn50u8=
+		1X1PgNDzNXdTajVa7btzpyOVjkA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -172,9 +172,9 @@
 		<data>
 		jc9sGIZILao9KNsFWGTu8cGPsKc=
 		</data>
-		<key>dist/assets/forgetpassword-9f44d241.js</key>
+		<key>dist/assets/forgetpassword-f45f7697.js</key>
 		<data>
-		zIi5EKWAmcpcNTKWpn5qf6ZsD1s=
+		/pJSv179VdZReOkjUwcZs4NIvro=
 		</data>
 		<key>dist/assets/frequent-devices-05b5fe5c.js</key>
 		<data>
@@ -668,13 +668,13 @@
 		<data>
 		9jH/5hSI4Fo5gwq9NbPY0bWFKKU=
 		</data>
+		<key>dist/assets/index-27ae4087.css</key>
+		<data>
+		Eej0ItHfryJVyw0yqfUnguzaymU=
+		</data>
 		<key>dist/assets/index-28f76024.css</key>
 		<data>
 		wmyUqR/KnVQ0TS2sZK8JOB/fK4s=
-		</data>
-		<key>dist/assets/index-31b19ea8.css</key>
-		<data>
-		vBwp2Noor5mTJtJ10u+gyfmbB7M=
 		</data>
 		<key>dist/assets/index-33d95f7b.css</key>
 		<data>
@@ -715,10 +715,6 @@
 		<key>dist/assets/index-47aa7f7c.js</key>
 		<data>
 		sEuLELd0Phi7VS19QzgV6zdGthM=
-		</data>
-		<key>dist/assets/index-47ad60c2.css</key>
-		<data>
-		cJKZgD9mfys7xextMx+huDUMLTQ=
 		</data>
 		<key>dist/assets/index-484094c5.css</key>
 		<data>
@@ -928,6 +924,10 @@
 		<data>
 		XPv2grrk/5P+Hnay2aJes+7Anbg=
 		</data>
+		<key>dist/assets/index-e30e255b.css</key>
+		<data>
+		gAp0YJAmG8MzucOhxZ0UeGC0Ocw=
+		</data>
 		<key>dist/assets/index-e8224928.css</key>
 		<data>
 		2mSf5b1/9eixTPeUhRDw3haNEaU=
@@ -980,9 +980,9 @@
 		<data>
 		qs3mADju257Jv4CyNAbT+3KhUNg=
 		</data>
-		<key>dist/assets/register-fc02c2fb.js</key>
+		<key>dist/assets/register-28d74aa9.js</key>
 		<data>
-		+7ZdTeLB0mfBr4vrhtm5JgfqiMg=
+		jqAcyOO9Cb/ao04Oj0dRJNZl5+s=
 		</data>
 		<key>dist/assets/room-component-0e7d08d9.js</key>
 		<data>
@@ -1198,7 +1198,7 @@
 		</data>
 		<key>dist/forgetpassword/index.html</key>
 		<data>
-		slB7FqKpKyzwKVgGS2a79fSsc34=
+		JoOTVLA+gUJvQ0db6ONXN3oVuy8=
 		</data>
 		<key>dist/frequent-devices/index.html</key>
 		<data>
@@ -1250,7 +1250,7 @@
 		</data>
 		<key>dist/register/index.html</key>
 		<data>
-		2FI8v0zxcToroDEPVyGCkXoci1w=
+		v7P7OycWS8PyX69YYEYbkWXtSRc=
 		</data>
 		<key>dist/roomedit/index.html</key>
 		<data>
@@ -1327,14 +1327,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IFrHgptEHhBIJ0+QQ3awHtLSAsnCzYkQ3Pd+n6cAEPc=
+			xWQrXeyAr66B1m6CTQMSz3FSX3OR6Vx2sD+PSF35YT8=
 			</data>
 		</dict>
 		<key>Headers/KonkeSdk4YinYue-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n9gVUF/d5NHKGD3+/C+EMcZRNcWsWBLI0tc2iMZ6hNM=
+			vJcnLhNyRIVfiJ37Qhi6LHxj6K5etv+BYYtm5usOTik=
 			</data>
 		</dict>
 		<key>Headers/KonkeSdk4YinYue.h</key>
@@ -1348,35 +1348,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XtRPE0RTUC1f6dW5ihRMoo+mvQ2W31WlJzZDjYzjGVM=
+			Y+Om0fA3DKZr4HPH+fcxwNaVW8612N/sMpW0b1H7y2I=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K5TKvZRy7c6YD+RYTPyeyuajku7LW+LxSFzv6taXirQ=
+			Xj9uCzx3TdARb1AmjMLsqygCAs1wWma/7C3YanhgpjE=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IzOCs25u4HfPLacpq3tBMdG6to/FubU6tz0eSJslq/w=
+			vZJJte/NRSPtcTu9tB3S/rL+dNCgqdfgAZEN6QiEd+c=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K5TKvZRy7c6YD+RYTPyeyuajku7LW+LxSFzv6taXirQ=
+			Xj9uCzx3TdARb1AmjMLsqygCAs1wWma/7C3YanhgpjE=
 			</data>
 		</dict>
 		<key>Modules/KonkeSdk4YinYue.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			efZmgSMlq3TXFYvZi4flmet+6XD0SdRWeMhHTYCXqw0=
+			wuwOm9d06iSQ9i84iu1Vm3cCM5LIxKyxmzQbb0KrYXo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1610,11 +1610,11 @@
 			hxQn9ImGMPZpMXsc90loLnqY2kSlj6R9xuMXD2GfwrQ=
 			</data>
 		</dict>
-		<key>dist/assets/forgetpassword-9f44d241.js</key>
+		<key>dist/assets/forgetpassword-f45f7697.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gbhJxXruDZ+5Y+eJzVnLz1Cg8iwhwm/3z8y5kAqn3kU=
+			RO58AjMCQbzfcsEJSKzVRLPfGWqtKgJ7NYbP1NH2f0Y=
 			</data>
 		</dict>
 		<key>dist/assets/frequent-devices-05b5fe5c.js</key>
@@ -2478,18 +2478,18 @@
 			J2JFIyg/QwHs3gQSKByIpzKvqDDF4UHywnPbRvmh050=
 			</data>
 		</dict>
+		<key>dist/assets/index-27ae4087.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J65Ahz/EgSdmx7dBhheXLa7NU2qPweX6/0rl5dg0KZk=
+			</data>
+		</dict>
 		<key>dist/assets/index-28f76024.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			KPdgJD6abJWmJFRvrFL3XMSlyqKH3ADeZZN9nb0qsIc=
-			</data>
-		</dict>
-		<key>dist/assets/index-31b19ea8.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MbGeqHAVRD/aClU8RCaAeXIA8hQYbaCROKpMj9pl4X8=
 			</data>
 		</dict>
 		<key>dist/assets/index-33d95f7b.css</key>
@@ -2560,13 +2560,6 @@
 			<key>hash2</key>
 			<data>
 			nrLNLWJU4z6/R3ZEa7jzIUHyCb22ja41+idy9P/QcAo=
-			</data>
-		</dict>
-		<key>dist/assets/index-47ad60c2.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			R61gwhO/OKmSPXFHA2jymbOIIt/f3Tp7JMiJR0TI2zo=
 			</data>
 		</dict>
 		<key>dist/assets/index-484094c5.css</key>
@@ -2933,6 +2926,13 @@
 			1f+z0sFAuxyvXr6dk8hINzz33XuNqpl08QJr7/hyTvE=
 			</data>
 		</dict>
+		<key>dist/assets/index-e30e255b.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4w4lW/k0Pf2nFHkpvBcej1xGDKfhOiuPhJrfb3o+afg=
+			</data>
+		</dict>
 		<key>dist/assets/index-e8224928.css</key>
 		<dict>
 			<key>hash2</key>
@@ -3024,11 +3024,11 @@
 			E7U5PIJDgqbRJIej0QCjQP+QPR7y9N1ArBpO8Gk9UdA=
 			</data>
 		</dict>
-		<key>dist/assets/register-fc02c2fb.js</key>
+		<key>dist/assets/register-28d74aa9.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			naIvuqPjRvSWnPi1vc6uY6zx/dpYWltX27UEWWblACE=
+			ao+M5KQ8ZnKuHR7bhyYqSyIlcB2t9mVoJdDY/Lpfnz8=
 			</data>
 		</dict>
 		<key>dist/assets/room-component-0e7d08d9.js</key>
@@ -3406,7 +3406,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BnoMJgc19eH/QriqTuWjAecRba+XrK/J/Jj4rzjFYQo=
+			H4Sx2hoUSbHjmLV/L5a+Gc++t4X2ptqgGpB7PgcnmII=
 			</data>
 		</dict>
 		<key>dist/frequent-devices/index.html</key>
@@ -3497,7 +3497,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O701RK+cVC75WXHbLPQ36IbNl+6Y5bClnJFw5Ws2ZwY=
+			CzaqT0Qt8vNtIArfvXVL8Q4rnf3YRo0Ptni1cF0XZwE=
 			</data>
 		</dict>
 		<key>dist/roomedit/index.html</key>

@@ -5639,322 +5639,322 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
       "offset": 203,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
       "offset": 246,
       "length": 4,
       "value": "\"CN\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
       "offset": 291,
       "length": 4,
       "value": "\"zh\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
       "offset": 339,
       "length": 4,
       "value": "\"86\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
       "offset": 427,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
       "offset": 471,
       "length": 5,
       "value": "\"1.0\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KonkeSdk4YinYueRunner.swift",
       "kind": "StringLiteral",
       "offset": 516,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/Provider.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/Provider.swift",
       "kind": "StringLiteral",
       "offset": 145,
       "length": 5,
       "value": "\"jsb\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/Provider.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/Provider.swift",
       "kind": "StringLiteral",
       "offset": 857,
       "length": 10,
       "value": "\"resource\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/Provider.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/Provider.swift",
       "kind": "BooleanLiteral",
       "offset": 905,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/Provider.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/Provider.swift",
       "kind": "StringLiteral",
       "offset": 919,
       "length": 29,
       "value": "\"allowFileAccessFromFileURLs\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/Provider.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/Provider.swift",
       "kind": "Dictionary",
       "offset": 6722,
       "length": 102,
       "value": "[(\"jpg\", \"image\/jpeg\"), (\"jpeg\", \"image\/jpeg\"), (\"png\", \"image\/png\"), (\"gif\", \"image\/gif\")]"
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYConfig.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYConfig.swift",
       "kind": "StringLiteral",
       "offset": 169,
       "length": 29,
       "value": "\"ws:\/\/app2test.ikonke.com\/ws\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYConfig.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYConfig.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 26,
       "value": "\"wss:\/\/kapp.ikonke.com\/ws\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/H5Manager.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/H5Manager.swift",
       "kind": "StringLiteral",
       "offset": 157,
       "length": 14,
       "value": "\"aDVjb250ZW50\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/H5Manager.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/H5Manager.swift",
       "kind": "BooleanLiteral",
       "offset": 740,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/H5Manager.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/H5Manager.swift",
       "kind": "StringLiteral",
       "offset": 774,
       "length": 23,
       "value": "\"http:\/\/127.0.0.1:3000\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "StringLiteral",
       "offset": 1640,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
       "kind": "StringLiteral",
       "offset": 3413,
       "length": 21,
       "value": "\"login-state-changed\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/Color+KY.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/Color+KY.swift",
       "kind": "IntegerLiteral",
       "offset": 120,
       "length": 8,
       "value": "0x8bbb11"
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/Color+KY.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/Color+KY.swift",
       "kind": "IntegerLiteral",
       "offset": 151,
       "length": 8,
       "value": "0xe4f88b"
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "StringLiteral",
       "offset": 1504,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/ViewStack.swift",
       "kind": "Dictionary",
       "offset": 1598,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "StringLiteral",
       "offset": 912,
       "length": 8,
       "value": "\"首页\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "StringLiteral",
       "offset": 928,
       "length": 10,
       "value": "\"tab\/home\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "StringLiteral",
       "offset": 946,
       "length": 6,
       "value": "\"home\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "StringLiteral",
       "offset": 976,
       "length": 8,
       "value": "\"智家\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "StringLiteral",
       "offset": 992,
       "length": 11,
       "value": "\"tab\/smart\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "StringLiteral",
       "offset": 1011,
       "length": 11,
       "value": "\"smarthome\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "StringLiteral",
       "offset": 1046,
       "length": 8,
       "value": "\"服务\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "StringLiteral",
       "offset": 1062,
       "length": 13,
       "value": "\"tab\/service\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "StringLiteral",
       "offset": 1083,
       "length": 10,
       "value": "\"register\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "StringLiteral",
       "offset": 1117,
       "length": 8,
       "value": "\"我的\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "StringLiteral",
       "offset": 1133,
       "length": 8,
       "value": "\"tab\/me\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "StringLiteral",
       "offset": 1149,
       "length": 16,
       "value": "\"forgetpassword\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYTabbarViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1862,
       "length": 4,
       "value": "0.05"
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSB.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSB.swift",
       "kind": "Dictionary",
       "offset": 249,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/waynewu\/Downloads\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSBs\/EventForwarderJSB.swift",
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/H5Framework\/JSBs\/EventForwarderJSB.swift",
       "kind": "StringLiteral",
       "offset": 969,
       "length": 19,
       "value": "\"jsb-forward-event\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-dynfsqiijtkojlcuoinohmmazzdc\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/kk\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-ctudxfskansyltbxnqeiihxyapuv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 801,
       "length": 10,
       "value": "\"tab\/home\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-dynfsqiijtkojlcuoinohmmazzdc\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/kk\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-ctudxfskansyltbxnqeiihxyapuv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 948,
       "length": 14,
       "value": "\"tab\/home_sel\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-dynfsqiijtkojlcuoinohmmazzdc\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/kk\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-ctudxfskansyltbxnqeiihxyapuv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1088,
       "length": 8,
       "value": "\"tab\/me\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-dynfsqiijtkojlcuoinohmmazzdc\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/kk\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-ctudxfskansyltbxnqeiihxyapuv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1229,
       "length": 12,
       "value": "\"tab\/me_sel\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-dynfsqiijtkojlcuoinohmmazzdc\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/kk\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-ctudxfskansyltbxnqeiihxyapuv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1377,
       "length": 13,
       "value": "\"tab\/service\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-dynfsqiijtkojlcuoinohmmazzdc\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/kk\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-ctudxfskansyltbxnqeiihxyapuv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1533,
       "length": 17,
       "value": "\"tab\/service_sel\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-dynfsqiijtkojlcuoinohmmazzdc\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/kk\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-ctudxfskansyltbxnqeiihxyapuv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1682,
       "length": 11,
       "value": "\"tab\/smart\""
     },
     {
-      "filePath": "\/Users\/waynewu\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-dynfsqiijtkojlcuoinohmmazzdc\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/kk\/Library\/Developer\/Xcode\/DerivedData\/KonkeSdk4YinYue-ctudxfskansyltbxnqeiihxyapuv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KonkeSdk4YinYue\/IntermediateBuildFilesPath\/KonkeSdk4YinYue.build\/Release-iphoneos\/KonkeSdk4YinYue.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1832,
       "length": 15,
