@@ -75,6 +75,23 @@ class jsb {
     });
   }
 
+  goToAppWebview(args) {
+    return new Promise((resolve, reject) => {
+      this.invoke({
+        scope: 'app',
+        method: 'goToAppWebview',
+        params: args,
+        callback: ({responseBody, success}) => {
+          if (success !== true) {
+            reject(responseBody);
+          } else {
+            resolve(responseBody);
+          }
+        },
+      });
+    });
+  }
+
   getPageParams() {
     return new Promise((resolve, reject) => {
       this.invoke({

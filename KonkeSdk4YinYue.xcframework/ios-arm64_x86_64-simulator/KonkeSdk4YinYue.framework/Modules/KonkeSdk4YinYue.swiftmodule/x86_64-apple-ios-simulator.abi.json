@@ -4072,6 +4072,23 @@
       },
       {
         "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "KonkeSdk4YinYue"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "KonkeSdk4YinYue",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -5756,6 +5773,20 @@
       "offset": 774,
       "length": 23,
       "value": "\"http:\/\/127.0.0.1:3000\""
+    },
+    {
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 587,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYWebViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 617,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/kk\/Desktop\/Flutter_Konke\/yinyue\/KonkeSdk4YinYue_Src\/ios\/KonkeSdk4YinYue\/KonkeSdk4YinYue\/KYRootViewController.swift",
